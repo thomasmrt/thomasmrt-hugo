@@ -101,7 +101,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Strava"
     icon = "fab fa-strava"
     weight = 2
-    url = "https://twitter.com/johndoe/"
+    url = "https://www.strava.com/athletes/5070956"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
