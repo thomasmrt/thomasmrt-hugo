@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = ""
 title = "Thomas MARTIN"
 
 theme = "hugo-coder"
@@ -18,7 +18,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Thomas Martin"
     description = "My personal website"
     keywords = "blog,dreamer,personal"
-    info = "Dreamer"
+    info = "Trecker, Maker, Dreamer"
     avatarURL = "images/avatar.jpg"
     footerContent = "Enter a text here."
 
@@ -123,9 +123,9 @@ disqusShortname = "yourdiscussshortname"
 	[[menu.main]]
 	name = "Trips"
 	weight = 3
-	url = "projects/"
+	url = "trips/"
 
 	[[menu.main]]
 	name = "DIY projects"
 	weight = 5
-	url = "contact/"
+	url = "projects/"
