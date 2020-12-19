@@ -18,4 +18,5 @@ fields:
     max: 
     step: 
 pages:
+- content/trips/trip_4/_index.md
 - content/trips/trip_4/aa.md
