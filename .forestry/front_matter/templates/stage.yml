@@ -17,3 +17,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- content/trips/trip_4/aa.md
