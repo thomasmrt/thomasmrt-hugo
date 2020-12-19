@@ -17,7 +17,15 @@ fields:
       format: markdown
   label: decription
 - name: step
-  type: include
-  config: {}
-  template: step
+  type: field_group_list
+  fields:
+  - name: step
+    type: include
+    config: {}
+    template: step
+    label: step
+  config:
+    min: 
+    max: 
+    labelField: 
   label: Step
