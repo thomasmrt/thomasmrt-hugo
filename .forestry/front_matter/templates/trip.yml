@@ -23,5 +23,3 @@ fields:
     schema:
       format: markdown
   label: Description
-pages:
-- content/trips/belledonne.md
