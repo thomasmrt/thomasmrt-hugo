@@ -16,3 +16,8 @@ fields:
     schema:
       format: markdown
   label: decription
+- name: step
+  type: include
+  config: {}
+  template: step
+  label: Step
