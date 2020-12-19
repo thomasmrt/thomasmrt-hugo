@@ -2,18 +2,18 @@
 label: Trip
 hide_body: true
 fields:
-- name: index
-  type: text
-  config:
-    required: false
-  label: index
-  default: _index
-  hidden: true
 - name: title
   type: text
   config:
     required: false
   label: Title
+  default: _index
+  hidden: true
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
 - name: description
   type: textarea
   default: ''
