@@ -1,4 +1,25 @@
 ---
 label: Trip
 hide_body: true
-fields: []
+fields:
+- name: index
+  type: text
+  config:
+    required: false
+  label: index
+  default: _index
+  hidden: true
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Description
