@@ -1,5 +1,5 @@
 ---
-label: step
+label: Stage
 hide_body: true
 fields:
 - name: title
