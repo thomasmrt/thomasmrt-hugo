@@ -29,3 +29,5 @@ fields:
     max: 
     labelField: 
   label: Step
+pages:
+- content/trips/bivouac-dans-les-vosges-avec-des-belges.md
