@@ -8,6 +8,14 @@
     {{- .Title -}}
   </h1>
   {{ .Content }}
+  
+{{ if .Sections }}
+
+	{{ $ps := .Paginate .Sections }}
+
+
+  
+  
   <ul>
     {{ range .Paginator.Pages }}
     <li>
@@ -18,3 +26,5 @@
   </ul>
   {{ partial "pagination.html" . }}
 </section>
+
+{{ end }}
