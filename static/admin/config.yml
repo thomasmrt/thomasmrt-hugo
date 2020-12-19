@@ -16,3 +16,21 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'trip'
+    label: 'Trips'
+    folder: 'content/trip'    
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }      
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - name: 'step'
+        create: true
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }     
+          - { label: 'Body', name: 'body', widget: 'markdown' }     
