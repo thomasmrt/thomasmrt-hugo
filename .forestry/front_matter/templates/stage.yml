@@ -17,7 +17,30 @@ fields:
     min: 
     max: 
     step: 
+- name: duration
+  type: number
+  label: Duration
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: elevation
+  type: number
+  label: Elevation
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: gpx
+  type: file
+  config:
+    maxSize: 64
+  label: gpx
 pages:
-- content/trips/trip_4/_index.md
-- content/trips/trip_4/aa.md
 - content/trips/trip_test/etape-1.md
