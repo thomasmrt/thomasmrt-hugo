@@ -1,15 +1,12 @@
 +++
 distance = 0
-<<<<<<< Updated upstream
-duration = nil
-elevation = nil
+
+duration = 4
+elevation = 0
 gpx = ""
 title = "Grand Ballon"
 
-=======
-title = "Etape 1"
-duration = 4
->>>>>>> Stashed changes
+
 +++
   
 Aujourd'hui c'est le début de l'aventure. Réveil vers 7h, petit déjeuner tranquille. Vers 8h30 on est prêt à partir mais petit moment de panique Julie ne trouve plus son GSM. On finit par le retrouver et on peut prendre la route pour Guebwiller. On se gare sur le parking de l'Eglise Saitnt-Léger qui est gratuit en cette période (merci au CoVid). On commence à marcher vers 9h40. Le départ se fait dans les rues de Guebwiller mais on se retrouve rapidement en forêt. 
