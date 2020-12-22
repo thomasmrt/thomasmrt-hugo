@@ -23,3 +23,5 @@ fields:
     schema:
       format: markdown
   label: Description
+pages:
+- content/trips/_index-1.md
