@@ -1,5 +1,7 @@
 
 {{ define "title" }}
+
+
   {{- if eq .Kind "term" -}}
     {{- i18n .Data.Singular | title -}}
     {{- print ": " -}}
@@ -8,5 +10,8 @@
   {{- .Title }} · {{ .Site.Title -}}
 {{ end }}
 {{ define "content" }}
+
+
+
   {{ partial "list.html" . }}
 {{ end }}
