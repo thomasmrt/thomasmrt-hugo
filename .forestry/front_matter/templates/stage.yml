@@ -43,6 +43,7 @@ fields:
     maxSize: 64
   label: gpx
 pages:
+- content/trips/belledonne/allevard-pierre-du-carre.md
 - content/trips/vosges_trip/etape-1.md
 - content/trips/vosges_trip/la-boucle-est-bouclee.md
 - content/trips/vosges_trip/petit-ballon.md
