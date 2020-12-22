@@ -1,6 +1,9 @@
 +++
-description = "gfgfg"
-name = "Beleldonne"
+description = ""
+name = "Treck vosgien (avec de belges)"
 title = "_index"
 
 +++
+Cette année on repart dans les Vosges mais cette fois accompagné de Quentin, Boris , Céline et Julie. Le plan initial était de rejoindre Guebwiller dimanche en début d'après-midi pour commencer le tour du Grand Ballon en trois jours en bivouac puis de se poser dans un camping pour le reste de la semaine. Mais samedi au réveil j'ai une légère douleur au petit orteil droit. Sur le moment je me dis que c'est rien et que ça va passer. Que nenni. La douleur s'intensifie dans la journée et se n'est pas beaucoup mieux dimanche matin. Boris et Céline qui descendent de Belgique nous récupèrent Quentin et moi chez mes parents a Bar-le-Duc et nous voilà parti direction Guebwiller ou nous rejoignons Julie. J'ai un peu moins mal mais pas au point de partir randonner, du coup on change l'organisation de la semaine, d'abord camping puis trek. Ça nous laisse le temps de voir comment évolue mon orteil et d'éventuellement aller voir un médecin. On se met donc a la recherche d'un camping. On veut aller à l'Office de tourisme de Guebwiller mais ils sont en plein déménagement et fermé (malgré l'affichage qui dit le contraire). On finit par trouver un camping pas trop loin qui a l'air cool à Osenbach. Il est malheureusement complet mais nous redirigé vers celui de Labaroche qui est à 45min de route. Arrivé sur place on est pas déçu. Le camping est très nature. On se trouve une place et profite du reste de la soirée autour d'un petit jeu. Au programme apéro, jeu et chill.  
+  
+Le lendemain sera une journée tranquille avec visite des villages typiques d'Alsace, Riquewirh et Ribeauvillé, qui ne sont pas très loin du camping. On en profite pour acheter une magnifique fromage aux orties pour la rando à venir. C'est aussi l'occasion de se rassurer sur l'état de mon orteil. C'est beaucoup mieux, la douleur est partie comme elle était venue. Bonne nouvelle. On passe un après-midi très chill au camping à base de sieste, pétanque, et autre jeux. On prépare aussi une petite salade pour le repas de demain midi.
