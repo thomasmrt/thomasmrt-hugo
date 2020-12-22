@@ -25,3 +25,4 @@ fields:
   label: Description
 pages:
 - content/trips/_index-1.md
+- content/trips/belledonne/_index.md
