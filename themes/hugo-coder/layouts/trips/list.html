@@ -18,22 +18,24 @@
             </span>
             
           </div>
-		  
-		  {{range .Pages}}
+		  <div>
+        {{ if .Params.featuredImage }}
+          <img src='{{ .Params.featuredImage }}' alt="Featured image"/>
+        {{ end }}
+        {{ .Content }}
+      </div>
+	  
+		  {{range .RegularPages}}
 		   {{- .Render "stage" -}}
 		  {{ end }}
+		  
           {{ with .Page.Params.Authors }}{{ partial "taxonomy/authors.html" . }}{{ end }}
           {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
           {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
         </div>
       </header>
 
-      <div>
-        {{ if .Params.featuredImage }}
-          <img src='{{ .Params.featuredImage }}' alt="Featured image"/>
-        {{ end }}
-        {{ .Content }}
-      </div>
+     
 
 
       <footer>
