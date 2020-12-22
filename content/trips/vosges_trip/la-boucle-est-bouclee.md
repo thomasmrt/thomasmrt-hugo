@@ -1,7 +1,7 @@
 +++
-distance = nil
-duration = nil
-elevation = nil
+distance = 0
+duration = 0
+elevation = 0
 gpx = ""
 title = "La boucle est bouclée"
 
