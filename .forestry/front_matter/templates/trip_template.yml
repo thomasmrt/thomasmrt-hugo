@@ -17,3 +17,5 @@ fields:
 - type: list
   name: authors
   label: authors
+pages:
+- content/trips/tour-de-la-vallee-de-munster.md
