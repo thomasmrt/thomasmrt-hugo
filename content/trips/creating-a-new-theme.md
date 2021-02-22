@@ -1,1145 +1,153 @@
-+++ 
-date = "2014-09-28"
-title = "Creating a New Theme"
-slug = "creating-a-new-theme"
++++
+categories = []
+date = 2017-07-13T22:00:00Z
+slug = ""
 tags = []
-categories = ["lolo"]
+title = "Grande traversée des Lofoten"
 
 +++
+## Paris - Oslo - Bodo - Svolvaer
 
-## Introduction
+Sacs sur le dos, chaussure au pieds, on part de Saint-Cyr vers 7h. On prend ensuite le RER jusqu'à montparnasse puis le bus jusqu'à Charles de Gaulle. on galère un peu pour enregistrer nos bagages parce qu'on est des gros boulets on a pas vu que la machine a imprimé nos tickets on les a laissés par terre. Premier vol sans encombre on arrive à Oslo vers 13h15. Petite particularité à Oslo pour continuer vers notre correspondance il faut qu'on attende que notre nom s'afiche sur un écran. Puis en scanant notre billet on vérifie que nos bagages soient bien là, photos à l'appui. On profite de cette escale pour prendre notre premier repas sur le sol norvégien, une tartine au saumon une bouteille d'eau et un dessert. Résultat des courses 500 NOK (couronnes norvégiennes) soit 50 € pour deux (WTF?!).
 
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
+On embarque ensuite pour notre deuxième vol vers Bodo. Peu avant le décollage le capitaine nous annonce qu'on doit attendre des passagers dont le vol précédent a du retard. Après 40 minutes d'attente finalement on part...sans ces passagers. On a attendu pour rien. On arrive donc à Bodo où l'on doit récupérer nos bagages pour les enregistrer pour notre vol suivant vers Svolvaer. Avec les 40 minutes de retard on doit se dépêcher pour ne pas rater le vol. Et là c'est le drame le sac d'Antoine n'est pas sur le tapis. Il a dû rester à Oslo.
 
-We'll start with creating a new site with a very basic template. Then we'll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.
+Tant pis on saute dans l'avion sans le sac on s'en occupera plus tard. Arrivés à destination on prend des nouvelles du sac. Apparemment il a été retrouvé mais il ne pourra pas être envoyé sur place avant demain matin. Iil faut donc qu'on trouve une solution pour dormir cette nuit car bien évidemment la tente est dans le sac d'Antoine. On prend un taxi pour rejoindre le centre-ville et essayer de trouver un hôtel. Malheureusement à cette époque de l'année tous les hôtels sont pleins. Finalement on trouvera quand même une place dans un camping (une chambre deux place) pour passer la nuit.
 
-In this tutorial, commands that you enter will start with the "$" prompt. The output will follow. Lines that start with "#" are comments that I've added to explain a point. When I show updates to a file, the ":wq" on the last line means to save the file.
+##  Svolvaer
 
-Here's an example:
+Aujourd'hui on a deux missions récupérer le sac d'Antoine puis essayer de se rendre au début de la randonnée à Delp. Vers 8h30 on reçoit un appel de l'aéroport qui nous prévienstque le sac est arrivé. On prend donc le bus vers 9h45 pour aller le chercher. Première mission accomplie. Après avoir vérifié les horaires de bus, on se rend compte que çela va être compliqué d'aller à Delp aujourd'hui. Changement de plan on décide de se rendre à Sandsletta (départ de l'étape 2). Le bus pour s'y rendre est 15h. En attendant on décide d'aller faire une petite randonnée dans les environs de Svolvaer. On prend le taxi pour se rendre au début de la randonnée. On tâtonne au début pour trouver le bon chemin. On commence l'ascension sur un grand chemin puis on bifurque sur la droite dans un petit chemin dans les bouleaux. Commence alors une ascension à brut. Après une petite demi-heure d'efforts on arrive au sommet et on a une vue magnifique sur la ville malgré le temps couvert.
 
-```
-## this is a comment
-$ echo this is a command
-this is a command
+Avec le soleil ça serait vraiment sublime. Au sommet il y a une boîte aux lettres avec un carnet dedans sur lequel les gens inscrivent leur nom avec le jour et l'heure de passage. On redescend ensuite vers Svolvaer et on se pose près du port pour manger. On doit encore attendre une heure et demie pour le bus. On rentre dans un café pour ne pas mourir de froid car il ne fait pas très chaud dehors. 15h15, le bus est à l'heure. C'est parti pour Sandsletta. Le temps ne s'améliore pas. Après 40 minutes de route on arrive au camping. On installe la tente pour la première fois sous une fine pluie. On se balade dans le camping qui est près d'un lac et on fait la sieste dans la tente.
 
-## edit the file
-$vi foo.md
-+++
-date = "2014-09-28"
-title = "creating a new theme"
-+++
+On profite aussi de la douche chaude du camping et aussi des plaques de cuisson pour cuisiner notre premier repas. Au menu, pâtes aux vermicelles et riz au boeuf piquant. On n'attend pas que le soleil se couche pour aller dormir car ici il ne se couche jamais à cette époque de l'année. D'ailleurs c'est assez perturbant de se réveiller à 3h du matin et d'avoir la même luminosité qu'à 20h.
 
-bah and humbug
-:wq
+##  Sandsletta- Svolvaer
 
-## show it
-$ cat foo.md
-+++
-date = "2014-09-28"
-title = "creating a new theme"
-+++
+Après cette première nuit sans nuit, réveil tranquille vers 7h. Le temps d'avaler un muesli et un café on décolle vers 8h15. Le début de l'étape est le long de la route. Puis on bifurque dans une allée privée. Au bout de l'allée l'étape commence vraiment par une ascension dans une forêt de pins. La montée continue mais le terrain change on traverse de la tourbière bien humide. Je commence à douter de la pertinence de mon choix de chaussures. Un peu plus haut, nouveau changement de terrain, de la neige, que l’on doit traverser sur quelques mètres. Peu après vers 10h on arrive au lac Isvatnet, couvert de glace.
 
-bah and humbug
-$
-```
+On continue de grimper pour rejoindre lac Botnvatnet. La glace qui recouvre le lac laisse traverser des reflets turquoise, c'est beau. La neige est de plus en plus présente et c’est de plus en plus compliqué de repérer la trace de la randonnée. On traverse ensuite torrent en passant sur la glace qui le surplombe. On avance prudemment pour ne pas risquer de tomber dedans. À ce moment-là, on a perdu la trace du sentier et on ne sait pas trop où aller. On descend une pente assez abrupte et dans une petite glissade je plante et tord mes bâtons (la poisse).
 
+Ensuite on doit longer le flanc de la montagne. Notre route est interrompue par des portions de neige qui plonge dans la pente. Mieux vaut ne pas faire de faux pas au risque de se retrouver rapidement quelque dizaines de mètres plus bas.
 
-## Some Definitions
+Jusque-là le temps est assez maussade à part une jolie éclaircie qui nous avait remonté le moral un peu avant la fin de la montée. On profite d'une petite accalmie pour s'arrêter manger. Ce sera assez bref car il recommence à pleuvoir. environ 20 minutes après la pose, Antoine s'aperçoit qu'il a égaré la fixation de son mini trépied. Après quelques hésitations Antoine rebrousse chemin pour tenter de le retrouver. Pendant ce temps je reste seul avec les sacs. Après quelques minutes, je remonte la pente pour essayer d'apercevoir Antoine. Il est presque revenu au point de départ. Et par chance il retrouve l'objet perdu. On continue alors la descente raide et humide vers le lac de Nedre Svolvaervatnet que l'on doit longer pour arriver à Svolvaer.
 
-There are a few concepts that you need to understand before creating a theme.
+On croise alors les premières personnes de la journée et bien sûr ce sont des français. Comme nous ils font la traversée des Lofoten et ont choisi de faire cette étape en sens inverse. Après le récit de nos petite galères sur la neige ils semblent hésiter à continuer jusqu'au bout. On continue de notre côté de longer le lac. Les conditions de marche s'améliorent grandement puisque la suite du parcours est aménagé avec un chemin de planches sur pilotis. On s'arrête un instant pour manger quelques gâteaux. La météo s'acharne il se remet à pleuvoir. On s'acharne à attendre une éclaircie. Une trouée dans les nuages nous laisse espérer un rayon de soleil mais les éléments sont contre nous et le soleil ne percera que timidement les nuages.
 
-### Skins
+On finit de longer le lac pour arriver au lieu de notre campement. On attend que la pluie cesse pour installer la tente. Alors qu'il nous a fui toute la journée le soleil pointe le bout de son nez. Ça fait tout de suite un bien fou. On en profite pour faire sécher la tente et les affaires. Puis on va faire un tour en ville pour me racheter des bâtons et faire des provisions pour les prochaines étapes qui seront en bivouac et donc sans ravitaillement. C'est d'ailleurs aussi à ce moment-là qu'on achète ce carnet. A notre retour au camping les français croisé splutôt sont en train de monter leur tente. Ils ont fait demi-tour à cause de la neige. Le reste de la soirée est ensoleillé et on en profite grandement.
 
-Skins are the files responsible for the look and feel of your site. It’s the CSS that controls colors and fonts, it’s the Javascript that determines actions and reactions. It’s also the rules that Hugo uses to transform your content into the HTML that the site will serve to visitors.
+##  Svolvaer - Kleppstad
 
-You have two ways to create a skin. The simplest way is to create it in the ```layouts/``` directory. If you do, then you don’t have to worry about configuring Hugo to recognize it. The first place that Hugo will look for rules and files is in the ```layouts/``` directory so it will always find the skin.
+A notre réveil vers 7h le soleil brille. On en profite pour ranger la tente au sec. on a bien fait car il ne tarde pas à pleuvoir. On repousse le départ dans l'attente d'une éclaircie mais cela semble peine perdue. On profite d'une légère accalmie pour lever le camp. Finalement l'averse ne durera pas longtemps. On commence par longer un lac avec des rives aménagées comme hier. ça commence tranquillement. puis on arrive près d'une cascade et un but sur un panneau indiquant Damvatnet. Là commence l'ascension. Vu les alentours ça risque de piquer. Et effectivement ça monte à pic. On se retrouve rapidement au pied d'une conduite forcée qui tombe de la montagne avec de part et d'autre des cordes qui nous indique qu'on va bien devoir passer par là.
 
-Your second choice is to create it in a sub-directory of the ```themes/``` directory. If you do, then you must always tell Hugo where to search for the skin. It’s extra work, though, so why bother with it?
+Ça monte dur mais ça monte bien à part un passage où on est obligé de retirer les sacs pour passer , le soleil est bien présent. on fait une bonne pause. c'est alors que commence le jeu de piste. Peu après avoir commencé à marcher on perd toute trace du sentier. Ensuite le flanc de la montagne le long du lac et on se guide grâce à l'aide du GPS au bout du lac on s'arrête casser la croûte. Pendant le repas on aperçoit le couple de français d'hier au loin. Ils ont également l'air d'avoir des difficultés pour s'orienter. on essaie de les guider au loin sans grande réussite. comme ils ne sont plus très loin on décide de les attendre. Puis on reprend la marche par une petite montée. arrivé en haut on a vu sur la tourbière et le lac en contrebas. On voit également le pont qui nous permettra de traverser la rivière qui s'écoule dans le lac. la descente est raide et toujours pas de trace d'un quelconque sentier. On lâche le couple qui s'arrête à son tour pour manger. En bas on traverse la tourbière puis franchit la rivière. On commence ensuite allongé la rive qui paraissait s'étendre à perte de vue.
 
-The difference between creating a skin in ```layouts/``` and creating it in ```themes/``` is very subtle. A skin in ```layouts/``` can’t be customized without updating the templates and static files that it is built from. A skin created in ```themes/```, on the other hand, can be and that makes it easier for other people to use it.
+Le temps d'une pause on aperçoit au loin les français qui arrive au niveau de la rivière mais euh apparemment n'ont pas vu le pont et semble galérer pour traverser. De là où l'on n'est on dirait qu'ils ont dû mettre les pieds dans l'eau. Le reste de l'étape est quelque peu monotone le long du lac. Au bout du lac rejoint la route E10 que l'on suit quelques temps avant de se poser sur une aire. On doit maintenant franchir 14 km de route non fréquentable à pied. On se met donc à faire du stop.
 
-The rest of this tutorial will call a skin created in the ```themes/``` directory a theme.
+Après des débuts infructueux, on est assez rapidement embarqué par une norvégienne qui se balade dans les Lofoten avec la voiture d'une amie. Et par chance elle passe exactement par l'endroit où l'on souhaite se rendre c'est-à-dire le début de l'étape suivante Vikjorda. Une fois descendu de la voiture et notre conductrice remercier reste à trouver un bivouac. on s'éloigne un peu de la route et on trouve rapidement un endroit pour planter la tente. Le soleil brille, sans aucun nuage. La vue est dégagée sur les montagnes en face. La fin d'après-midi passe tranquillement. Ce soir c'est la première fois qu'on utilise le réchaud p3rs qui nous avait déjà servi en Corse. C'est non sans mal qu'on parvient à faire chauffer l'eau car il y a beaucoup de vent. Mais ce sera suffisant pour chauffer les pâtes aux bolets de ce soir. vers 21h30 le soleil se cache derrière la montagne avoisinantes et c'est pour nous l'heure d'aller dormir.
 
-Note that you can use this tutorial to create a skin in the ```layouts/``` directory if you wish to. The main difference will be that you won’t need to update the site’s configuration file to use a theme.
+##  Vikjorda - Lac de Store Kengg&#229;rsvatnet
 
-### The Home Page
+L'étape d'aujourd'hui s'annonce rude avec 1400 mètres de dénivelé positif. la montée commence tranquillement en passant entre plusieurs petit lacs, puis la pente se raidit. niveau sentier c'est comme hier, inexistant. Au niveau d'un palier on croise une française (évidemment) qui fait la route inverse. Elle nous indique succinctement le chemin et nous annonce que la vue au sommet est magnifique. On continue un peu de monter et on fait une pause près d'un gros cairn peint en rouge.
 
-The home page, or landing page, is the first page that many visitors to a site see. It is the index.html file in the root directory of the web site. Since Hugo writes files to the public/ directory, our home page is public/index.html.
+La française nous a pas menti. après une ascension le long de la crête, la vue à 360° au sommet est à couper le souffle. on voit la mer de tous les côtés, c'est grandiose. Par contre le vent souffle fort et il faut se mettre bien à l'abri un peu en contrebas.
 
-### Site Configuration File
+Le sommet est assez plat contrairement à la plupart des montagnes aux alentours. On commence à descendre en suivant un chemin qui apparemment n'est pas le bon. On continue donc de descendre à tâtons avec l'aide du GPS. On recommence à monter et encore une fois on suit le mauvais sentier. On corrige notre trajectoire pour attraper la trace, on avait pas mal dévier quand même. On tombe sur une petite route que l'on suit un kilomètre environ avant de retourner sur un sentier. On continue un peu de monter pour trouver un spot manger. On fini enfin le paquet de salami que l'on se trimballe depuis 3 jours. on n'a pas était très bon sur l'estimation de la nourriture pour ces 3 jours sans ravito. On en a pris beaucoup trop. Après le repas, on continue la troisième ascension de la journée. On se laisse guider par un sentier bien défini et on finit par s'éloigner de la trace (décidément...). On essaye de se remettre sur la bonne voie mais on a bien du mal à trouver un chemin dégagé pour la descente.
 
-When Hugo runs, it looks for a configuration file that contains settings that override default values for the entire site. The file can use TOML, YAML, or JSON. I prefer to use TOML for my configuration files. If you prefer to use JSON or YAML, you’ll need to translate my examples. You’ll also need to change the name of the file since Hugo uses the extension to determine how to process it.
+En bas de la 4e montée, des norvégiens sont en train de construire un abri en bois. On monte, on descend, on remonte. À la fin de cette ultime montée on aperçoit l'objectif de la journée, le lac de store Kenggarsvatnet. On amorce tranquillement la descente vers le petit abri aménagé au bord du lac.
 
-Hugo translates Markdown files into HTML. By default, Hugo expects to find Markdown files in your ```content/``` directory and template files in your ```themes/``` directory. It will create HTML files in your ```public/``` directory. You can change this by specifying alternate locations in the configuration file.
+A notre arrivée, un groupe de norvégiens (avec leurs chiens) y fait une pause. 0n discute rapidement et ils nous montrent des photos d'un point de vue près de Leknes. C'est un somment avec vue plongeante sur la mer et ses reflets turquoise (quand il fait beau). Cela donne envie d'y aller mais c'est malheureusement un peu loin pour nous. On installe la tente au bord du lac. La vue rivalise avec celle d'hier.
 
-### Content
+On sera rejoint un peu plus tard par un groupe de jeune norvégiens qui viennent passer la soirée dans l'abri et pêcher au bord du lac.
 
-Content is stored in text files that contain two sections. The first section is the “front matter,” which is the meta-information on the content. The second section contains Markdown that will be converted to HTML.
+##  Lac de Store Kengg&#229;rsvatnet - Leknes - Napp
 
-#### Front Matter
+Aujourd'hui c'est plus ou moins une étape de transition, au programme 2h30 de marche. À notre réveil le soleil brille sous un ciel voilé. On déjeune tranquillement et on décolle. À peine parti remarque une tente non loin de l'abri, c'est le couple de Français qu'on avait perdu deux jours plus tôt. En fait ils ont fait la portion de route entre Kelppstad et Vikjorda à pied. Du coup ils sont arrivés un peu tard ici. On leur dis à plus tard, peut-être. Et on commence cette étape en contournant le lac par sa rive droite.
 
-The front matter is information about the content. Like the configuration file, it can be written in TOML, YAML, or JSON. Unlike the configuration file, Hugo doesn’t use the file’s extension to know the format. It looks for markers to signal the type. TOML is surrounded by “`+++`”, YAML by “`---`”, and JSON is enclosed in curly braces. I prefer to use TOML, so you’ll need to translate my examples if you prefer YAML or JSON.
+Puis on remonte légèrement. On aperçoit déjà la ville de Leknes au loin. On commence alors à descendre tout en douceur. bientôt on se retrouve sur un sens bien défini et on en oublie de vérifier qu'on est bien sur la bon chemin. Résultats des courses on a raté une bifurcation et on se retrouve sur une route. On va devoir la longer sur quelques kilomètres. C'est assez pénible. On essayera de couper à travers champs pour retrouver un chemin mais on abandonnera assez vite.On arrive finalement à bon port vers 11h. On regarde les horaires de bus. Il y en a moulte et le prochain est à 12h40. Parfait, juste le temps de faire quelques courses pour les prochains jours et de grignoter un morceau. Après 15 minutes de trajet le bus nous dépose au hameau de Napp.
 
-The information in the front matter is passed into the template before the content is rendered into HTML.
+On décide de s'avancer dans l'étape du lendemain pour trouver un endroit où bivouaquer. On fait une pause près d'un torrent pour le repas du midi point puis on continue de notre route avec pour objectif ce qui semble être sur la carte un lac et donc potentiellement un accès à l'eau. après environ 1h30 de marche on attend le lac qui est en fait un bras de mer.
 
-#### Markdown
+on continue à la recherche d'un point d'eau mais il ne semble pas y en avoir à proximité. on fait une pause et on cherche un endroit pour planter la tente. On en trouve un et on installe la tente un peu dans la précipitation. après coup on se dit qu'on aurait mieux fait de rebrousser chemin et de se poser près d'un point de vue mais maintenant qu'on a installé on a pas le courage de tout remballer et tout réinstaller ailleurs. Comme nos stocks de son faible je fais une mission d'eau jusqu'à la source la plus proche à environ 15 minutes. Bientôt il se met à pleuvoir et on trouvera tous dans l'attente. On ne la quittera pas jusqu'au lendemain matin. Petit avantage, pas de problème de vent pour allumer le réchaud dans le auvent de la tente.
 
-Content is written in Markdown which makes it easier to create the content. Hugo runs the content through a Markdown engine to create the HTML which will be written to the output file.
+##  Napp - Nusfjord
 
-### Template Files
+La nuit a été très venteuse, difficile de bien dormir. Le réveil est donc un peu poussif. Le début de l'étape et la continuité d'hier on mange la côte en montant et descendant en fonction des cirques et des caps qui se succèdent.
 
-Hugo uses template files to render content into HTML. Template files are a bridge between the content and presentation. Rules in the template define what content is published, where it's published to, and how it will rendered to the HTML file. The template guides the presentation by specifying the style to use.
+Puis on rentre dans les terres et on passe à travers une succession de lac. on redescend pour se retrouver à proximité de la route E10. on attrape on emprunte alors un sentier en montée dans une forêt de pins et de boulot. Il a plu une bonne partie de l'étape. on s'arrête vers 12h15 pour manger à la prise sous les pins. Quand on repart la pluie s'est calmée. On arrive vite sur la petite route qui nous mène jusqu'au petit village de Nusfjord. On a de choix que de la longer.
 
-There are three types of templates: single, list, and partial. Each type takes a bit of content as input and transforms it based on the commands in the template.
+Le village est une véritable attraction touristique. On y arrive d'ailleurs en même temps qu'un bus de touristes. Surprise, l'accès du village est payant 50 couronnes jusqu'à 18h. Sachant que la suite de la randonnée et notre bivouac se trouvant de l'autre côté du village sans autre accès et qu'il est 14h on décide de payer. On se balade un temps dans le village de pêcheurs.
 
-Hugo uses its knowledge of the content to find the template file used to render the content. If it can’t find a template that is an exact match for the content, it will shift up a level and search from there. It will continue to do so until it finds a matching template or runs out of templates to try. If it can’t find a template, it will use the default template for the site.
+Puis on continue à la recherche d'une autre bivouac du soir. On trouve un spot en hauteur à l'écart du sentier et avec bien sûr une vue sur la mer. La soirée est assez fraîche.
 
-Please note that you can use the front matter to influence Hugo’s choice of templates.
+##  Nusfjord - Ramberg
 
-#### Single Template
+Au réveil le ciel semble être dégagé. Mais le temps de commencer à ranger et de prendre notre petit-déjeuner les nuages ont repris leur place et le vent s'est levé. On descend de notre perchoir et après quelques centaines de mètres on croise le couple de français, ça devient une habitude. La première partie de l'étape est sympathique, comme hier le long de la côte.
 
-A single template is used to render a single piece of content. For example, an article or post would be a single piece of content and use a single template.
+La suite de l'étape et quelques peu monotone. On remonte le fjord sur un chemin plat puis une route jusqu'à retomber sur le 10 pour arriver jusqu'à Ramberg. Le long de la route on passe à coté de Stockfisch de morue séchant sur des claies de bois. Autant vous dire que ça ne sent pas l'eau de rose.
 
-#### List Template
+On s'installe au camping et on prend notre repas du midi. Comme il est encore tôt on décide d'aller se balader sur les relief alentours. La pente est très raide, heureusement qu'on a pas les sacs. On s'arrête à un premier point de vue qui offre une jolie vue sur les environs. On aperçoit Ramberg en contrebas, le fjord qu'on a remonté ce matin et le début de la route qui nous attend demain. On monte encore un petit peu mais plus haut la vue est bloqué par le nuage alors on insiste pas. On redescend tranquillement.
 
-A list template renders a group of related content. That could be a summary of recent postings or all articles in a category. List templates can contain multiple groups.
+On va faire un petit tour à la plage qui est juste à coté du camping. Mais on ne mettra pas un pied dans l'eau qui est glaciale, surtout avec le peu de soleil qu'il y a aujourd'hui. Puis vient le moment que l'on attend depuis 4 jours, la douche. 4 minutes d'eau chaude qui font un bien fou. Ensuite c'est le train-train de la randonnée on va faire les courses on fait une petite sieste et on savoure un bon lyophilisé.
 
-The homepage template is a special type of list template. Hugo assumes that the home page of your site will act as the portal for the rest of the content in the site.
+##  Ramberg - Selfjord
 
-#### Partial Template
-
-A partial template is a template that can be included in other templates. Partial templates must be called using the “partial” template command. They are very handy for rolling up common behavior. For example, your site may have a banner that all pages use. Instead of copying the text of the banner into every single and list template, you could create a partial with the banner in it. That way if you decide to change the banner, you only have to change the partial template.
-
-## Create a New Site
-
-Let's use Hugo to create a new web site. I'm a Mac user, so I'll create mine in my home directory, in the Sites folder. If you're using Linux, you might have to create the folder first.
-
-The "new site" command will create a skeleton of a site. It will give you the basic directory structure and a useable configuration file.
-
-```
-$ hugo new site ~/Sites/zafta
-$ cd ~/Sites/zafta
-$ ls -l
-total 8
-drwxr-xr-x  7 quoha  staff  238 Sep 29 16:49 .
-drwxr-xr-x  3 quoha  staff  102 Sep 29 16:49 ..
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
--rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
-$
-```
+Il est tombé quelques gouttes pendant la nuit. Au réveil le ciel est très couvert. On profite des installations du camping pour se faire un bon petit déjeuner au chaud. on essaie de faire sécher la tente avec les mecs éclaircie. Du coup on a bien pris notre temps il est 9h quand on prend la route. La route au sens littéral puisqu'on commence par longer le 10 puis une rose secondaire pendant environ 6 km. Enfin on commence à marcher dans un sentier. Au loin on aperçoit un groupe , 0n revient assez vite sur eux et bien sûr se sont encore et toujours des français. Un petit point de vue où on se pose un instant. Puis on continue l'ascension vers le sommet du Ryten. Le groupe de français de nous passer devant. La montée est assez roulante avec des massages un peu plus abrupte. La vue en haut et fabuleuse.
 
-Take a look in the content/ directory to confirm that it is empty.
+La falaise qui plonge sous les pieds la plage la mer turquoise et les montagnes en face. Seule ombre au tableau le temps qui est toujours un peu couvert. On passe un peu de temps en espérant que ça se dégage un peu. On grignote un morceau le soleil ne viendra pas, on redescend par là où on était monté avant de nous diriger vers la plage en contrebas. La descente est à pic. On observe le pic mais que l'on vient de gravir depuis la plage.
 
-The other directories (archetypes/, layouts/, and static/) are used when customizing a theme. That's a topic for a different tutorial, so please ignore them for now.
+On y prends un petit gâteau en guise de dessert. il y a pas mal de gens qui ont bivouaquer aux abords de la plage et ils ont bien raison l'endroit est sublime. On continue notre chemin pour atteindre une autre plage juste à côté. Ensuite on remonte un petit colle pour aller de l'autre côté des montagnes. On longe un lac puis un autre.
 
-### Generate the HTML For the New Site
+On tombe sur un sentier qui nous mène jusqu'à notre point de chute. A la fin de l'étape on ne trouve pas de tout de suite à un endroit pour bivouaquer. On décide de continuer un peu point on trouve un endroit sec et à peu près plat mais la vue n'est pas top. on continue donc encore un peu plus , on traverse une zone très humide. finalement on trouve un endroit sympa avec une belle vue sur le fjord. On est un peu court sur les stocks d'alcool à brûler car on n'a pas réussi à en trouver un Ramberg. Il nous reste trois ou quatre repas et on a à peine de quoi en faire plus d'un. Alors ce soir on improvise un mini feu aidés par de l'allume-feu. Après des débuts difficiles le lyophilisé est chauffé avec succès.
 
-Running the `hugo` command with no options will read all the available content and generate the HTML files. It will also copy all static files (that's everything that's not content). Since we have an empty site, it won't do much, but it will do it very quickly.
+##  Selfjord - Reine - Moskenes
 
-```
-$ hugo --verbose
-INFO: 2014/09/29 Using config file: config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
-WARN: 2014/09/29 Unable to locate layout: [404.html]
-0 draft content
-0 future content
-0 pages created
-0 tags created
-0 categories created
-in 2 ms
-$
-```
+Il a plu une bonne partie de la nuit. Heureusement au matin ça se calme un peu ce qui nous laisse le temps de ranger la tente un peu mouillée quand même. On commence l'étape en finissant de contourner le fjord puis un lac sur un terrain assez humide. Devant nous se dresse la première difficulté de la journée. Plus on se rapproche plus cela parait impressionnant. La montée est costaud. 400 m de dénivelé sec sans répit. On croise pas mal de gens et surtout des français. Arrivés en haut on continue sur le flanc de la montagne jusqu'à un autre col. Le temps n'est toujours pas très favorable et le vent souffle fort. On passe de l'autre côté et on descend vers un lac. Il ne nous reste plus qu'à franchir un petit col pour atteindre Plus loin on aperçoit une plage.
 
-The "`--verbose`" flag gives extra information that will be helpful when we build the template. Every line of the output that starts with "INFO:" or "WARN:" is present because we used that flag. The lines that start with "WARN:" are warning messages. We'll go over them later.
+En haut du col on se dit qu'on est un peu en avance. En effet il est tout juste midi et on doit prendre le bateau vers 15h. Et il n'y a pas grand chose à faire dans les environs. Commence alors l'attente. Heureusement il y a une petite cabane on peut l'abriter car il se remet à pleuvoir. Il ne fait toujours pas bien chaud. On profite du temps un peu plus clément puis on rejoint le port d'amarrage.
 
-We can verify that the command worked by looking at the directory again.
+Vers 15h30 le ferry tenta tendu pointe le bout de son nez. On demande si il peut nous déposer à la station électrique. et il nous annonce que ça nous coûtera 200 courant couronne par personne ce qui nous paraît un peu cher. On change donc nos plans pour aller à Reine. 0n payera 67 couronnes.
 
-```
-$ ls -l
-total 8
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
--rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
-drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
-$
-```
+Depuis Reine on prend un bus jusqu'à Moskenes. On s'installe au camping qui deviendra notre camp de base pour les trois prochains jours
 
-See that new public/ directory? Hugo placed all generated content there. When you're ready to publish your web site, that's the place to start. For now, though, let's just confirm that we have what we'd expect from a site with no content.
+##  A i Lofoten
 
-```
-$ ls -l public
-total 16
--rw-r--r--  1 quoha  staff  416 Sep 29 17:02 index.xml
--rw-r--r--  1 quoha  staff  262 Sep 29 17:02 sitemap.xml
-$
-```
-
-Hugo created two XML files, which is standard, but there are no HTML files.
+On se réveille sous la pluie. Mais heureusement on peut prendre notre petit-déjeuner au chaud et pas besoin de démonter la tente. On prend le bus pour se rendre à A i Lofoten où l'on compte faire l'étape qui devait être la dernière de notre traversée. On commence à marcher vers 9h40. Le temps est toujours assez maussade. On longe le lac Agvanet par la droite. En observant le relief au loin on se demande bien où l'on va pouvoir passer. Ça monte à pic de tous les côtés. Au bout du lac le verdict se confirme ça va grimper sec tout droit dans la pente. Les norvégiens ne semble pas connaître le concept de lacets. Si tu veux monter là-haut tu y vas tout droit, c'est simple. Mais comme bien souvent la vue au sommet compense les efforts demandé. On est sur un perchoir avec une vue sublime des 2 côtés sur un lac.
 
+On mange sur place. on aperçoit en contrebas un groupe qui commence l'ascension. on décide de changer un peu l'itinéraire initialement prévu. on redescend vers pour faire l'ascension dentiste à ben plutôt que d'aller vers la baie de Stokkvika. On commence à descendre quand le groupe arrive au col. Dans la descente croise pas mal de gens. Ensuite on contourne le lac mais par la rive gauche cette fois-ci. Puis on recommence à monter pour rattraper le sentier qui mène au sommet. Le début de la montée est très abrupte. Il faut poser les mains. On est content de n'avoir qu'un petit sac pour la journée. Par la suite la pente se fait un peu plus douce. Au sommet on a une vue magnifique sur le lac et sur le reste jusqu'à Vaeroy .
 
-
-### Test the New Site
+Malheureusement le temps est assez couvert et idéal. Il commence à pleuvoir peu après. on reste quelques temps dans l'espoir d'une éclaircie mais celle-ci de ne viendra pas c'est plutôt l'inverse dans la descente on se prend une bonne averse. De retour à haut on décide d'aller faire quelques courses d'appoint dans le village de Sorvagen puis on poussera finalement jusqu'à Moskenes à pied.
 
-Verify that you can run the built-in web server. It will dramatically shorten your development cycle if you do. Start it by running the "server" command. If it is successful, you will see output similar to the following:
+##  Munkan
 
-```
-$ hugo server --verbose
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
-WARN: 2014/09/29 Unable to locate layout: [404.html]
-0 draft content
-0 future content
-0 pages created
-0 tags created
-0 categories created
-in 2 ms
-Serving pages from /Users/quoha/Sites/zafta/public
-Web Server is available at http://localhost:1313
-Press Ctrl+C to stop
-```
+Ce matin, il fait beau. On déjeune tranquillement et on prend la route de Sorvagen vers 8h30. Après 30 minutes de marche le long de la route, on tourne à droite pour longer le lac de Sorvagen sur la gauche. Assez vite un panneau indique Munkebu. Le sentier est bien visible car c'est une randonnée très connue et très fréquentée. La montée se fait tranquillement. On arrive assez vite à Munkebu que l'on contourne sur la droite pour se diriger directement vers le sommet de Munkan. La fin de la montée est un peu plus raide mais ça reste raisonnable. Et attention les yeux au sommet ça envoie du très très lourd.
 
-Connect to the listed URL (it's on the line that starts with "Web Server"). If everything is working correctly, you should get a page that shows the following:
+Vue à 360° avec des lacs en veux-tu en voilà la mer le fjord et les montagnes. tout ça depuis un sommet encore enneigé. niveau météo c'est plutôt bon même si quelques nuages persistent à cacher le soleil. On reste admiré ce sublime paysage pendant presque 2h. En plus il n'y avait presque personne.
 
-```
-index.xml
-sitemap.xml
-```
+Dans la descente on croise pas mal de monde dont le groupe de français que l'on avait déjà vu au sommet du Ryten. On ne prend pas le même chemin qu'à l'aller pour passer par Munkebu. On a alors vue sur la butte 448 où l'on aurait pu bivouaquer. La vue a l'air plutôt sympa. Comme il est encore tôt et qu'il fait beau on grimpe les sommets alentours et on en profite du soleil.
 
-That's a listing of your public/ directory. Hugo didn't create a home page because our site has no content. When there's no index.html file in a directory, the server lists the files in the directory, which is what you should see in your browser.
+Puis vient le temps de redescendre vers Moskenes. On hésite passer direct tout droit vers Moskenes mais on n'est pas sûr qu'il y ait un passage. On choisit donc la sûreté en retournant à Sorvagen mais en passant par la rive droite du lac.
 
-Let’s go back and look at those warnings again.
+##  Veinstinden
 
-```
-WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
-WARN: 2014/09/29 Unable to locate layout: [404.html]
-```
+Après une nuit compliquée le réveil est difficile surtout pour moi. Le temps d'émerger et de se préparer on part vers 9h15. On passe voir les horaires de ferry pour ce soir. Il y en a à 14h45 puis 20h30. Comme on a pas envie de se presser et avec la randonnée d'aujourd'hui ça paraît compliqué de pouvoir prendre celui de 14h45. Nous voilà donc parti pour notre objectif de la journée le sommet du Veinestinden. On commence par prendre un chemin qui longe la route vers Reine. Au niveau d'un pont on traverse et on débute le sentier le long d'un lac pour changer. Le sentier est assez sinueux et pas très roulant. Au fond du lac le sentier disparaît en même temps que commence l'ascension. Faute de sentier on monte à travers la pente en longeant une chute d'eau. On reprend notre souffle au niveau du lac qui alimente la chute d'eau.
 
-That second warning is easier to explain. We haven’t created a template to be used to generate “page not found errors.” The 404 message is a topic for a separate tutorial.
+Puis la montée reprend de plus belle. mais au moins on a retrouvé un sentier. Puis la pente s'adoucit mais le sentier disparaît. Cependant il n'y a pas beaucoup de direction possible virgule il faut aller vers le haut. encore un petit effort et nous y voilà. La vue sur le fjord de Reine et grandiose. Peut-être encore plus qu'hier avec ce joli soleil.
 
-Now for the first warning. It is for the home page. You can tell because the first layout that it looked for was “index.html.” That’s only used by the home page.
+On reste ébahis devant la beauté du paysage. On en profite pendant 2h puis il faut redescendre. La descente se passe bien mais le retour le long du lac lui est un peu laborieux. De retour au camping , on se fait propre on mange notre dernier repas sur les îles et on se prépare pour prendre le ferry. On embarque vers 20h10. Le ferry largue les amarres à l'heure prévue.
 
-I like that the verbose flag causes Hugo to list the files that it's searching for. For the home page, they are index.html, _default/list.html, and _default/single.html. There are some rules that we'll cover later that explain the names and paths. For now, just remember that Hugo couldn't find a template for the home page and it told you so.
+Au revoir îles Lofoten
 
-At this point, you've got a working installation and site that we can build upon. All that’s left is to add some content and a theme to display it.
+## Oslo
 
-## Create a New Theme
+La traversée dure 3h. On débarque donc à Bodo un peu avant minuit. Étant donné l'heure tardive on décide d'aller directement à l'aéroport et de passer la nuit là-bas (en espérant que ce soit ouvert). Sur la carte, l'aéroport paressait proche de l'embarcadère. On mettra quand même une bonne heure pour y aller. Bonne nouvelle à l'arrivée, c'est ouvert. Et on ne sera pas les seuls à passer la nuit ici. Apparemment il y avait un rassemblement de scouts à Bodo et ils repartent tous tôt demain. Vers 4h, ça s'active dans l'aéroport. Des chariots et des chariots passent pour aller à l'enregistrement. Bientôt tout ce petit monde embarque et le hall d'entrée de l'aéroport retrouve son calme. On patiente encore quelque heure. Notre vol pour Trondheim décolle vers midi, une heure d'escale et on arrive à Oslo vers 16h30. Le temps de rejoindre le centre d'Oslo, de trouver l'auberge de jeunesse dans laquelle on a reversé une chambre, il est 18h30. On en profite pour faire une machine histoire d'avoir quelque affaires propres.
 
-Hugo doesn't ship with a default theme. There are a few available (I counted a dozen when I first installed Hugo) and Hugo comes with a command to create new themes.
-
-We're going to create a new theme called "zafta." Since the goal of this tutorial is to show you how to fill out the files to pull in your content, the theme will not contain any CSS. In other words, ugly but functional.
-
-All themes have opinions on content and layout. For example, Zafta uses "post" over "blog". Strong opinions make for simpler templates but differing opinions make it tougher to use themes. When you build a theme, consider using the terms that other themes do.
-
-
-### Create a Skeleton
-
-Use the hugo "new" command to create the skeleton of a theme. This creates the directory structure and places empty files for you to fill out.
+Le lendemain matin on se balade dans le centre d'Oslo. La ville n'est pas très grande, ça se fait bien à pied. On passe par le Parlement, le Palais royal, la citadelle d'Akershus et enfin l'Opéra. Le quartier de l'Opéra est en pleine rénovation, il y a des grues partout.
 
-```
-$ hugo new theme zafta
-
-$ ls -l
-total 8
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
--rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
-drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
-drwxr-xr-x  3 quoha  staff  102 Sep 29 17:31 themes
-
-$ find themes -type f | xargs ls -l
--rw-r--r--  1 quoha  staff  1081 Sep 29 17:31 themes/zafta/LICENSE.md
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/archetypes/default.md
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/index.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
--rw-r--r--  1 quoha  staff    93 Sep 29 17:31 themes/zafta/theme.toml
-$
-```
+On fait une bonne pause pour le déjeuner dans le quartier d'Aker Brygge. L'après-midi on décide de faire un tour en bateau dans le fjord d'Oslo. Quand on embarque le temps est assez couvert et ça va être de pire en pire. On se prends une bonne grosse averse pendant une bonne partie de l'excursion. On en ressort trempés.
 
-The skeleton includes templates (the files ending in .html), license file, a description of your theme (the theme.toml file), and an empty archetype.
+Le lendemain on continue notre visite avec le parc Vigeland et toutes ces statues loufoques.
 
-Please take a minute to fill out the theme.toml and LICENSE.md files. They're optional, but if you're going to be distributing your theme, it tells the world who to praise (or blame). It's also nice to declare the license so that people will know how they can use the theme.
+On monte ensuite voir le tremplin olympique de saut à ski qui surplombe la ville et en offre une belle vue. Le site abrite également la musée du ski.
 
-```
-$ vi themes/zafta/theme.toml
-author = "michael d henderson"
-description = "a minimal working template"
-license = "MIT"
-name = "zafta"
-source_repo = ""
-tags = ["tags", "categories"]
-:wq
-
-## also edit themes/zafta/LICENSE.md and change
-## the bit that says "YOUR_NAME_HERE"
-```
-
-Note that the the skeleton's template files are empty. Don't worry, we'll be changing that shortly.
-
-```
-$ find themes/zafta -name '*.html' | xargs ls -l
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/index.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
-$
-```
-
-
-
-### Update the Configuration File to Use the Theme
-
-Now that we've got a theme to work with, it's a good idea to add the theme name to the configuration file. This is optional, because you can always add "-t zafta" on all your commands. I like to put it the configuration file because I like shorter command lines. If you don't put it in the configuration file or specify it on the command line, you won't use the template that you're expecting to.
-
-Edit the file to add the theme, add a title for the site, and specify that all of our content will use the TOML format.
-
-```
-$ vi config.toml
-theme = "zafta"
-baseURL = ""
-languageCode = "en-us"
-title = "zafta - totally refreshing"
-MetaDataFormat = "toml"
-:wq
-
-$
-```
-
-### Generate the Site
-
-Now that we have an empty theme, let's generate the site again.
-
-```
-$ hugo --verbose
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content
-0 future content
-0 pages created
-0 tags created
-0 categories created
-in 2 ms
-$
-```
-
-Did you notice that the output is different? The warning message for the home page has disappeared and we have an additional information line saying that Hugo is syncing from the theme's directory.
-
-Let's check the public/ directory to see what Hugo's created.
-
-```
-$ ls -l public
-total 16
-drwxr-xr-x  2 quoha  staff   68 Sep 29 17:56 css
--rw-r--r--  1 quoha  staff    0 Sep 29 17:56 index.html
--rw-r--r--  1 quoha  staff  407 Sep 29 17:56 index.xml
-drwxr-xr-x  2 quoha  staff   68 Sep 29 17:56 js
--rw-r--r--  1 quoha  staff  243 Sep 29 17:56 sitemap.xml
-$
-```
-
-Notice four things:
-
-1. Hugo created a home page. This is the file public/index.html.
-2. Hugo created a css/ directory.
-3. Hugo created a js/ directory.
-4. Hugo claimed that it created 0 pages. It created a file and copied over static files, but didn't create any pages. That's because it considers a "page" to be a file created directly from a content file. It doesn't count things like the index.html files that it creates automatically.
-
-#### The Home Page
-
-Hugo supports many different types of templates. The home page is special because it gets its own type of template and its own template file. The file, layouts/index.html, is used to generate the HTML for the home page. The Hugo documentation says that this is the only required template, but that depends. Hugo's warning message shows that it looks for three different templates:
-
-```
-WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
-```
-
-If it can't find any of these, it completely skips creating the home page. We noticed that when we built the site without having a theme installed.
-
-When Hugo created our theme, it created an empty home page template. Now, when we build the site, Hugo finds the template and uses it to generate the HTML for the home page. Since the template file is empty, the HTML file is empty, too. If the template had any rules in it, then Hugo would have used them to generate the home page.
-
-```
-$ find . -name index.html | xargs ls -l
--rw-r--r--  1 quoha  staff  0 Sep 29 20:21 ./public/index.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 ./themes/zafta/layouts/index.html
-$
-```
-
-#### The Magic of Static
-
-Hugo does two things when generating the site. It uses templates to transform content into HTML and it copies static files into the site. Unlike content, static files are not transformed. They are copied exactly as they are.
-
-Hugo assumes that your site will use both CSS and JavaScript, so it creates directories in your theme to hold them. Remember opinions? Well, Hugo's opinion is that you'll store your CSS in a directory named css/ and your JavaScript in a directory named js/. If you don't like that, you can change the directory names in your theme directory or even delete them completely. Hugo's nice enough to offer its opinion, then behave nicely if you disagree.
-
-```
-$ find themes/zafta -type d | xargs ls -ld
-drwxr-xr-x  7 quoha  staff  238 Sep 29 17:38 themes/zafta
-drwxr-xr-x  3 quoha  staff  102 Sep 29 17:31 themes/zafta/archetypes
-drwxr-xr-x  5 quoha  staff  170 Sep 29 17:31 themes/zafta/layouts
-drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/layouts/_default
-drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/layouts/partials
-drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/static
-drwxr-xr-x  2 quoha  staff   68 Sep 29 17:31 themes/zafta/static/css
-drwxr-xr-x  2 quoha  staff   68 Sep 29 17:31 themes/zafta/static/js
-$
-```
-
-## The Theme Development Cycle
-
-When you're working on a theme, you will make changes in the theme's directory, rebuild the site, and check your changes in the browser. Hugo makes this very easy:
-
-1. Purge the public/ directory.
-2. Run the built in web server in watch mode.
-3. Open your site in a browser.
-4. Update the theme.
-5. Glance at your browser window to see changes.
-6. Return to step 4.
-
-I’ll throw in one more opinion: never work on a theme on a live site. Always work on a copy of your site. Make changes to your theme, test them, then copy them up to your site. For added safety, use a tool like Git to keep a revision history of your content and your theme. Believe me when I say that it is too easy to lose both your mind and your changes.
-
-Check the main Hugo site for information on using Git with Hugo.
-
-### Purge the public/ Directory
-
-When generating the site, Hugo will create new files and update existing ones in the ```public/``` directory. It will not delete files that are no longer used. For example, files that were created in the wrong directory or with the wrong title will remain. If you leave them, you might get confused by them later. I recommend cleaning out your site prior to generating it.
-
-Note: If you're building on an SSD, you should ignore this. Churning on a SSD can be costly.
-
-### Hugo's Watch Option
-
-Hugo's "`--watch`" option will monitor the content/ and your theme directories for changes and rebuild the site automatically.
-
-### Live Reload
-
-Hugo's built in web server supports live reload. As pages are saved on the server, the browser is told to refresh the page. Usually, this happens faster than you can say, "Wow, that's totally amazing."
-
-### Development Commands
-
-Use the following commands as the basis for your workflow.
-
-```
-## purge old files. hugo will recreate the public directory.
-##
-$ rm -rf public
-##
-## run hugo in watch mode
-##
-$ hugo server --watch --verbose
-```
-
-Here's sample output showing Hugo detecting a change to the template for the home page. Once generated, the web browser automatically reloaded the page. I've said this before, it's amazing.
-
-
-```
-$ rm -rf public
-$ hugo server --watch --verbose
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content
-0 future content
-0 pages created
-0 tags created
-0 categories created
-in 2 ms
-Watching for changes in /Users/quoha/Sites/zafta/content
-Serving pages from /Users/quoha/Sites/zafta/public
-Web Server is available at http://localhost:1313
-Press Ctrl+C to stop
-INFO: 2014/09/29 File System Event: ["/Users/quoha/Sites/zafta/themes/zafta/layouts/index.html": MODIFY|ATTRIB]
-Change detected, rebuilding site
-
-WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content
-0 future content
-0 pages created
-0 tags created
-0 categories created
-in 1 ms
-```
-
-## Update the Home Page Template
-
-The home page is one of a few special pages that Hugo creates automatically. As mentioned earlier, it looks for one of three files in the theme's layout/ directory:
-
-1. index.html
-2. _default/list.html
-3. _default/single.html
-
-We could update one of the default templates, but a good design decision is to update the most specific template available. That's not a hard and fast rule (in fact, we'll break it a few times in this tutorial), but it is a good generalization.
-
-### Make a Static Home Page
-
-Right now, that page is empty because we don't have any content and we don't have any logic in the template. Let's change that by adding some text to the template.
-
-```
-$ vi themes/zafta/layouts/index.html
-<!DOCTYPE html>
-<html>
-<body>
-  <p>hugo says hello!</p>
-</body>
-</html>
-:wq
-
-$
-```
-
-Build the web site and then verify the results.
-
-```
-$ hugo --verbose
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content
-0 future content
-0 pages created
-0 tags created
-0 categories created
-in 2 ms
-
-$ find public -type f -name '*.html' | xargs ls -l
--rw-r--r--  1 quoha  staff  78 Sep 29 21:26 public/index.html
-
-$ cat public/index.html
-<!DOCTYPE html>
-<html>
-<body>
-  <p>hugo says hello!</p>
-</html>
-```
-
-#### Live Reload
-
-Note: If you're running the server with the `--watch` option, you'll see different content in the file:
-
-```
-$ cat public/index.html
-<!DOCTYPE html>
-<html>
-<body>
-  <p>hugo says hello!</p>
-<script>document.write('<script src="http://'
-        + (location.host || 'localhost').split(':')[0]
-    + ':1313/livereload.js?mindelay=10"></'
-        + 'script>')</script></body>
-</html>
-```
-
-When you use `--watch`, the Live Reload script is added by Hugo. Look for live reload in the documentation to see what it does and how to disable it.
-
-### Build a "Dynamic" Home Page
-
-"Dynamic home page?" Hugo's a static web site generator, so this seems an odd thing to say. I mean let's have the home page automatically reflect the content in the site every time Hugo builds it. We'll use iteration in the template to do that.
-
-#### Create New Posts
-
-Now that we have the home page generating static content, let's add some content to the site. We'll display these posts as a list on the home page and on their own page, too.
-
-Hugo has a command to generate a skeleton post, just like it does for sites and themes.
-
-```
-$ hugo --verbose new post/first.md
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 attempting to create  post/first.md of post
-INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/default.md
-ERROR: 2014/09/29 Unable to Cast <nil> to map[string]interface{}
-
-$
-```
-
-That wasn't very nice, was it?
-
-The "new" command uses an archetype to create the post file. Hugo created an empty default archetype file, but that causes an error when there's a theme. For me, the workaround was to create an archetypes file specifically for the post type.
-
-```
-$ vi themes/zafta/archetypes/post.md
-+++
-Description = ""
-Tags = []
-Categories = []
-+++
-:wq
-
-$ find themes/zafta/archetypes -type f | xargs ls -l
--rw-r--r--  1 quoha  staff   0 Sep 29 21:53 themes/zafta/archetypes/default.md
--rw-r--r--  1 quoha  staff  51 Sep 29 21:54 themes/zafta/archetypes/post.md
-
-$ hugo --verbose new post/first.md
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 attempting to create  post/first.md of post
-INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/post.md
-INFO: 2014/09/29 creating /Users/quoha/Sites/zafta/content/post/first.md
-/Users/quoha/Sites/zafta/content/post/first.md created
-
-$ hugo --verbose new post/second.md
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 attempting to create  post/second.md of post
-INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/post.md
-INFO: 2014/09/29 creating /Users/quoha/Sites/zafta/content/post/second.md
-/Users/quoha/Sites/zafta/content/post/second.md created
-
-$ ls -l content/post
-total 16
--rw-r--r--  1 quoha  staff  104 Sep 29 21:54 first.md
--rw-r--r--  1 quoha  staff  105 Sep 29 21:57 second.md
-
-$ cat content/post/first.md
-+++
-Categories = []
-Description = ""
-Tags = []
-date = "2014-09-29T21:54:53-05:00"
-title = "first"
-
-+++
-my first post
-
-$ cat content/post/second.md
-+++
-Categories = []
-Description = ""
-Tags = []
-date = "2014-09-29T21:57:09-05:00"
-title = "second"
-
-+++
-my second post
-
-$
-```
-
-Build the web site and then verify the results.
-
-```
-$ rm -rf public
-$ hugo --verbose
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-INFO: 2014/09/29 found taxonomies: map[string]string{"category":"categories", "tag":"tags"}
-WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content
-0 future content
-2 pages created
-0 tags created
-0 categories created
-in 4 ms
-$
-```
-
-The output says that it created 2 pages. Those are our new posts:
-
-```
-$ find public -type f -name '*.html' | xargs ls -l
--rw-r--r--  1 quoha  staff  78 Sep 29 22:13 public/index.html
--rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/first/index.html
--rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/index.html
--rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/second/index.html
-$
-```
-
-The new files are empty because because the templates used to generate the content are empty. The homepage doesn't show the new content, either. We have to update the templates to add the posts.
-
-### List and Single Templates
-
-In Hugo, we have three major kinds of templates. There's the home page template that we updated previously. It is used only by the home page. We also have "single" templates which are used to generate output for a single content file. We also have "list" templates that are used to group multiple pieces of content before generating output.
-
-Generally speaking, list templates are named "list.html" and single templates are named "single.html."
-
-There are three other types of templates: partials, content views, and terms. We will not go into much detail on these.
-
-### Add Content to the Homepage
-
-The home page will contain a list of posts. Let's update its template to add the posts that we just created. The logic in the template will run every time we build the site.
-
-```
-$ vi themes/zafta/layouts/index.html
-<!DOCTYPE html>
-<html>
-<body>
-  {{ range first 10 .Data.Pages }}
-    <h1>{{ .Title }}</h1>
-  {{ end }}
-</body>
-</html>
-:wq
-
-$
-```
-
-Hugo uses the Go template engine. That engine scans the template files for commands which are enclosed between "{{" and "}}". In our template, the commands are:
-
-1. range
-2. .Title
-3. end
-
-The "range" command is an iterator. We're going to use it to go through the first ten pages. Every HTML file that Hugo creates is treated as a page, so looping through the list of pages will look at every file that will be created.
-
-The ".Title" command prints the value of the "title" variable. Hugo pulls it from the front matter in the Markdown file.
-
-The "end" command signals the end of the range iterator. The engine loops back to the top of the iteration when it finds "end." Everything between the "range" and "end" is evaluated every time the engine goes through the iteration. In this file, that would cause the title from the first ten pages to be output as heading level one.
-
-It's helpful to remember that some variables, like .Data, are created before any output files. Hugo loads every content file into the variable and then gives the template a chance to process before creating the HTML files.
-
-Build the web site and then verify the results.
-
-```
-$ rm -rf public
-$ hugo --verbose
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-INFO: 2014/09/29 found taxonomies: map[string]string{"tag":"tags", "category":"categories"}
-WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content
-0 future content
-2 pages created
-0 tags created
-0 categories created
-in 4 ms
-$ find public -type f -name '*.html' | xargs ls -l
--rw-r--r--  1 quoha  staff  94 Sep 29 22:23 public/index.html
--rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/first/index.html
--rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/index.html
--rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/second/index.html
-$ cat public/index.html
-<!DOCTYPE html>
-<html>
-<body>
-
-    <h1>second</h1>
-
-    <h1>first</h1>
-
-</body>
-</html>
-$
-```
-
-Congratulations, the home page shows the title of the two posts. The posts themselves are still empty, but let's take a moment to appreciate what we've done. Your template now generates output dynamically. Believe it or not, by inserting the range command inside of those curly braces, you've learned everything you need to know to build a theme. All that's really left is understanding which template will be used to generate each content file and becoming familiar with the commands for the template engine.
-
-And, if that were entirely true, this tutorial would be much shorter. There are a few things to know that will make creating a new template much easier. Don't worry, though, that's all to come.
-
-### Add Content to the Posts
-
-We're working with posts, which are in the content/post/ directory. That means that their section is "post" (and if we don't do something weird, their type is also "post").
-
-Hugo uses the section and type to find the template file for every piece of content. Hugo will first look for a template file that matches the section or type name. If it can't find one, then it will look in the _default/ directory. There are some twists that we'll cover when we get to categories and tags, but for now we can assume that Hugo will try post/single.html, then _default/single.html.
-
-Now that we know the search rule, let's see what we actually have available:
-
-```
-$ find themes/zafta -name single.html | xargs ls -l
--rw-r--r--  1 quoha  staff  132 Sep 29 17:31 themes/zafta/layouts/_default/single.html
-```
-
-We could create a new template, post/single.html, or change the default. Since we don't know of any other content types, let's start with updating the default.
-
-Remember, any content that we haven't created a template for will end up using this template. That can be good or bad. Bad because I know that we're going to be adding different types of content and we're going to end up undoing some of the changes we've made. It's good because we'll be able to see immediate results. It's also good to start here because we can start to build the basic layout for the site. As we add more content types, we'll refactor this file and move logic around. Hugo makes that fairly painless, so we'll accept the cost and proceed.
-
-Please see the Hugo documentation on template rendering for all the details on determining which template to use. And, as the docs mention, if you're building a single page application (SPA) web site, you can delete all of the other templates and work with just the default single page. That's a refreshing amount of joy right there.
-
-#### Update the Template File
-
-```
-$ vi themes/zafta/layouts/_default/single.html
-<!DOCTYPE html>
-<html>
-<head>
-  <title>{{ .Title }}</title>
-</head>
-<body>
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-</body>
-</html>
-:wq
-
-$
-```
-
-Build the web site and verify the results.
-
-```
-$ rm -rf public
-$ hugo --verbose
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-INFO: 2014/09/29 found taxonomies: map[string]string{"tag":"tags", "category":"categories"}
-WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content
-0 future content
-2 pages created
-0 tags created
-0 categories created
-in 4 ms
-
-$ find public -type f -name '*.html' | xargs ls -l
--rw-r--r--  1 quoha  staff   94 Sep 29 22:40 public/index.html
--rw-r--r--  1 quoha  staff  125 Sep 29 22:40 public/post/first/index.html
--rw-r--r--  1 quoha  staff    0 Sep 29 22:40 public/post/index.html
--rw-r--r--  1 quoha  staff  128 Sep 29 22:40 public/post/second/index.html
-
-$ cat public/post/first/index.html
-<!DOCTYPE html>
-<html>
-<head>
-  <title>first</title>
-</head>
-<body>
-  <h1>first</h1>
-  <p>my first post</p>
-
-</body>
-</html>
-
-$ cat public/post/second/index.html
-<!DOCTYPE html>
-<html>
-<head>
-  <title>second</title>
-</head>
-<body>
-  <h1>second</h1>
-  <p>my second post</p>
-
-</body>
-</html>
-$
-```
-
-Notice that the posts now have content. You can go to localhost:1313/post/first to verify.
-
-### Linking to Content
-
-The posts are on the home page. Let's add a link from there to the post. Since this is the home page, we'll update its template.
-
-```
-$ vi themes/zafta/layouts/index.html
-<!DOCTYPE html>
-<html>
-<body>
-  {{ range first 10 .Data.Pages }}
-    <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-  {{ end }}
-</body>
-</html>
-```
-
-Build the web site and verify the results.
-
-```
-$ rm -rf public
-$ hugo --verbose
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-INFO: 2014/09/29 found taxonomies: map[string]string{"tag":"tags", "category":"categories"}
-WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content
-0 future content
-2 pages created
-0 tags created
-0 categories created
-in 4 ms
-
-$ find public -type f -name '*.html' | xargs ls -l
--rw-r--r--  1 quoha  staff  149 Sep 29 22:44 public/index.html
--rw-r--r--  1 quoha  staff  125 Sep 29 22:44 public/post/first/index.html
--rw-r--r--  1 quoha  staff    0 Sep 29 22:44 public/post/index.html
--rw-r--r--  1 quoha  staff  128 Sep 29 22:44 public/post/second/index.html
-
-$ cat public/index.html
-<!DOCTYPE html>
-<html>
-<body>
-
-    <h1><a href="/post/second/">second</a></h1>
-
-    <h1><a href="/post/first/">first</a></h1>
-
-</body>
-</html>
-
-$
-```
-
-### Create a Post Listing
-
-We have the posts displaying on the home page and on their own page. We also have a file public/post/index.html that is empty. Let's make it show a list of all posts (not just the first ten).
-
-We need to decide which template to update. This will be a listing, so it should be a list template. Let's take a quick look and see which list templates are available.
-
-```
-$ find themes/zafta -name list.html | xargs ls -l
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
-```
-
-As with the single post, we have to decide to update _default/list.html or create post/list.html. We still don't have multiple content types, so let's stay consistent and update the default list template.
-
-## Creating Top Level Pages
-
-Let's add an "about" page and display it at the top level (as opposed to a sub-level like we did with posts).
-
-The default in Hugo is to use the directory structure of the content/ directory to guide the location of the generated html in the public/ directory. Let's verify that by creating an "about" page at the top level:
-
-```
-$ vi content/about.md
-+++
-title = "about"
-description = "about this site"
-date = "2014-09-27"
-slug = "about time"
-+++
-
-## about us
-
-i'm speechless
-:wq
-```
-
-Generate the web site and verify the results.
-
-```
-$ find public -name '*.html' | xargs ls -l
--rw-rw-r--  1 mdhender  staff   334 Sep 27 15:08 public/about-time/index.html
--rw-rw-r--  1 mdhender  staff   527 Sep 27 15:08 public/index.html
--rw-rw-r--  1 mdhender  staff   358 Sep 27 15:08 public/post/first-post/index.html
--rw-rw-r--  1 mdhender  staff     0 Sep 27 15:08 public/post/index.html
--rw-rw-r--  1 mdhender  staff   342 Sep 27 15:08 public/post/second-post/index.html
-```
-
-Notice that the page wasn't created at the top level. It was created in a sub-directory named 'about-time/'. That name came from our slug. Hugo will use the slug to name the generated content. It's a reasonable default, by the way, but we can learn a few things by fighting it for this file.
-
-One other thing. Take a look at the home page.
-
-```
-$ cat public/index.html
-<!DOCTYPE html>
-<html>
-<body>
-    <h1><a href="http://localhost:1313/post/theme/">creating a new theme</a></h1>
-    <h1><a href="http://localhost:1313/about-time/">about</a></h1>
-    <h1><a href="http://localhost:1313/post/second-post/">second</a></h1>
-    <h1><a href="http://localhost:1313/post/first-post/">first</a></h1>
-<script>document.write('<script src="http://'
-        + (location.host || 'localhost').split(':')[0]
-		+ ':1313/livereload.js?mindelay=10"></'
-        + 'script>')</script></body>
-</html>
-```
-
-Notice that the "about" link is listed with the posts? That's not desirable, so let's change that first.
-
-```
-$ vi themes/zafta/layouts/index.html
-<!DOCTYPE html>
-<html>
-<body>
-  <h1>posts</h1>
-  {{ range first 10 .Data.Pages }}
-    {{ if eq .Type "post"}}
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    {{ end }}
-  {{ end }}
-
-  <h1>pages</h1>
-  {{ range .Data.Pages }}
-    {{ if eq .Type "page" }}
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    {{ end }}
-  {{ end }}
-</body>
-</html>
-:wq
-```
-
-Generate the web site and verify the results. The home page has two sections, posts and pages, and each section has the right set of headings and links in it.
-
-But, that about page still renders to about-time/index.html.
-
-```
-$ find public -name '*.html' | xargs ls -l
--rw-rw-r--  1 mdhender  staff    334 Sep 27 15:33 public/about-time/index.html
--rw-rw-r--  1 mdhender  staff    645 Sep 27 15:33 public/index.html
--rw-rw-r--  1 mdhender  staff    358 Sep 27 15:33 public/post/first-post/index.html
--rw-rw-r--  1 mdhender  staff      0 Sep 27 15:33 public/post/index.html
--rw-rw-r--  1 mdhender  staff    342 Sep 27 15:33 public/post/second-post/index.html
-```
-
-Knowing that hugo is using the slug to generate the file name, the simplest solution is to change the slug. Let's do it the hard way and change the permalink in the configuration file.
-
-```
-$ vi config.toml
-[permalinks]
-	page = "/:title/"
-	about = "/:filename/"
-```
-
-Generate the web site and verify that this didn't work. Hugo lets "slug" or "URL" override the permalinks setting in the configuration file. Go ahead and comment out the slug in content/about.md, then generate the web site to get it to be created in the right place.
-
-## Sharing Templates
-
-If you've been following along, you probably noticed that posts have titles in the browser and the home page doesn't. That's because we didn't put the title in the home page's template (layouts/index.html). That's an easy thing to do, but let's look at a different option.
-
-We can put the common bits into a shared template that's stored in the themes/zafta/layouts/partials/ directory.
-
-### Create the Header and Footer Partials
-
-In Hugo, a partial is a sugar-coated template. Normally a template reference has a path specified. Partials are different. Hugo searches for them along a TODO defined search path. This makes it easier for end-users to override the theme's presentation.
-
-```
-$ vi themes/zafta/layouts/partials/header.html
-<!DOCTYPE html>
-<html>
-<head>
-	<title>{{ .Title }}</title>
-</head>
-<body>
-:wq
-
-$ vi themes/zafta/layouts/partials/footer.html
-</body>
-</html>
-:wq
-```
-
-### Update the Home Page Template to Use the Partials
-
-The most noticeable difference between a template call and a partials call is the lack of path:
-
-```
-{{ template "theme/partials/header.html" . }}
-```
-versus
-```
-{{ partial "header.html" . }}
-```
-Both pass in the context.
-
-Let's change the home page template to use these new partials.
-
-```
-$ vi themes/zafta/layouts/index.html
-{{ partial "header.html" . }}
-
-  <h1>posts</h1>
-  {{ range first 10 .Data.Pages }}
-    {{ if eq .Type "post"}}
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    {{ end }}
-  {{ end }}
-
-  <h1>pages</h1>
-  {{ range .Data.Pages }}
-    {{ if or (eq .Type "page") (eq .Type "about") }}
-      <h2><a href="{{ .Permalink }}">{{ .Type }} - {{ .Title }} - {{ .RelPermalink }}</a></h2>
-    {{ end }}
-  {{ end }}
-
-{{ partial "footer.html" . }}
-:wq
-```
-
-Generate the web site and verify the results. The title on the home page is now "your title here", which comes from the "title" variable in the config.toml file.
-
-### Update the Default Single Template to Use the Partials
-
-```
-$ vi themes/zafta/layouts/_default/single.html
-{{ partial "header.html" . }}
-
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-
-{{ partial "footer.html" . }}
-:wq
-```
-
-Generate the web site and verify the results. The title on the posts and the about page should both reflect the value in the markdown file.
-
-## Add “Date Published” to Posts
-
-It's common to have posts display the date that they were written or published, so let's add that. The front matter of our posts has a variable named "date." It's usually the date the content was created, but let's pretend that's the value we want to display.
-
-### Add “Date Published” to the Template
-
-We'll start by updating the template used to render the posts. The template code will look like:
-
-```
-{{ .Date.Format "Mon, Jan 2, 2006" }}
-```
-
-Posts use the default single template, so we'll change that file.
-
-```
-$ vi themes/zafta/layouts/_default/single.html
-{{ partial "header.html" . }}
-
-  <h1>{{ .Title }}</h1>
-  <h2>{{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
-  {{ .Content }}
-
-{{ partial "footer.html" . }}
-:wq
-```
-
-Generate the web site and verify the results. The posts now have the date displayed in them. There's a problem, though. The "about" page also has the date displayed.
-
-As usual, there are a couple of ways to make the date display only on posts. We could do an "if" statement like we did on the home page. Another way would be to create a separate template for posts.
-
-The "if" solution works for sites that have just a couple of content types. It aligns with the principle of "code for today," too.
-
-Let's assume, though, that we've made our site so complex that we feel we have to create a new template type. In Hugo-speak, we're going to create a section template.
-
-Let's restore the default single template before we forget.
-
-```
-$ mkdir themes/zafta/layouts/post
-$ vi themes/zafta/layouts/_default/single.html
-{{ partial "header.html" . }}
-
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-
-{{ partial "footer.html" . }}
-:wq
-```
-
-Now we'll update the post's version of the single template. If you remember Hugo's rules, the template engine will use this version over the default.
-
-```
-$ vi themes/zafta/layouts/post/single.html
-{{ partial "header.html" . }}
-
-  <h1>{{ .Title }}</h1>
-  <h2>{{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
-  {{ .Content }}
-
-{{ partial "footer.html" . }}
-:wq
-
-```
-
-Note that we removed the date logic from the default template and put it in the post template. Generate the web site and verify the results. Posts have dates and the about page doesn't.
-
-### Don't Repeat Yourself
-
-DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you're figuring that out, accept that you'll be doing some refactoring. Hugo makes that easy and fast, so it's okay to delay splitting up a template.
+On finit par déambuler dans la ville à la recherche de street art.
