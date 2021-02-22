@@ -10,11 +10,13 @@ title = "Grande traversée des Lofoten"
 
 Sacs sur le dos, chaussure au pieds, on part de Saint-Cyr vers 7h. On prend ensuite le RER jusqu'à montparnasse puis le bus jusqu'à Charles de Gaulle. on galère un peu pour enregistrer nos bagages parce qu'on est des gros boulets on a pas vu que la machine a imprimé nos tickets on les a laissés par terre. Premier vol sans encombre on arrive à Oslo vers 13h15. Petite particularité à Oslo pour continuer vers notre correspondance il faut qu'on attende que notre nom s'afiche sur un écran. Puis en scanant notre billet on vérifie que nos bagages soient bien là, photos à l'appui. On profite de cette escale pour prendre notre premier repas sur le sol norvégien, une tartine au saumon une bouteille d'eau et un dessert. Résultat des courses 500 NOK (couronnes norvégiennes) soit 50 € pour deux (WTF?!).
 
+[o5HDpgUusOs4DzBDC6ZHBuHWWYCfAkHJIDH4lpkz3TjJ4EwgVetePiRTaPgG9wYWAx17IafO1nX8dqb8ubTwJipnEiDi3zserHzsfvmt67dZHGkyBxxUz3m0WHDVN0uoa92FrP09zduofn04qvWTKwz_1nb-Nl1TLps7h1Y4ERGdPG701Asko9R0nm0hE4FEMEihzlz0JwuckDxMaVwqNzu3CGfCymYcUVduCQFbpbXxiLp8EhJeWqLe5LneOuvu_LHeTad1_vFhCl0pbfhzER8rizVy8JQiO9X88Lj0iEsbcwHy2B5_6BgLvmDpqWBcr2xE6OV7ijkLMfdey_g01qIcWpPAWhtzfLzhXcYhJM-26atZwBL-fOaTc3ZaEojWzH2502AD0uankPGRiRs9fYsKlb3YIGQSLqBHJ9x7ALQB1b5pLkDsDqmsFr-UzOwr1Y7GXJfry5-ppHkQpUWiXYQg7i2_FvQaeBvZY0dSiTrEvaEjIv5y3sXBQQNMc-8-kQwb1enitubztwFHzgfk0AoVJv3DqZHjlWJTWPUzHq4iYH-2KETM8Ji9-WdMyt6bSvXrOKbwj-fdLXO3gF3zC62XP8sNvjvVufUYxd4UXGbi-L6gA4mfByQTNjNWTkZ1H73fTb58YE-CzY6YRDUC9OroXqwaU-5Hx9PeueDP5GDEsdL2mIhiuZ599tJtlEcgrm1D4RXqDAqxtPwyJxw=w475-h359-no](https://lh3.googleusercontent.com/o5HDpgUusOs4DzBDC6ZHBuHWWYCfAkHJIDH4lpkz3TjJ4EwgVetePiRTaPgG9wYWAx17IafO1nX8dqb8ubTwJipnEiDi3zserHzsfvmt67dZHGkyBxxUz3m0WHDVN0uoa92FrP09zduofn04qvWTKwz_1nb-Nl1TLps7h1Y4ERGdPG701Asko9R0nm0hE4FEMEihzlz0JwuckDxMaVwqNzu3CGfCymYcUVduCQFbpbXxiLp8EhJeWqLe5LneOuvu_LHeTad1_vFhCl0pbfhzER8rizVy8JQiO9X88Lj0iEsbcwHy2B5_6BgLvmDpqWBcr2xE6OV7ijkLMfdey_g01qIcWpPAWhtzfLzhXcYhJM-26atZwBL-fOaTc3ZaEojWzH2502AD0uankPGRiRs9fYsKlb3YIGQSLqBHJ9x7ALQB1b5pLkDsDqmsFr-UzOwr1Y7GXJfry5-ppHkQpUWiXYQg7i2_FvQaeBvZY0dSiTrEvaEjIv5y3sXBQQNMc-8-kQwb1enitubztwFHzgfk0AoVJv3DqZHjlWJTWPUzHq4iYH-2KETM8Ji9-WdMyt6bSvXrOKbwj-fdLXO3gF3zC62XP8sNvjvVufUYxd4UXGbi-L6gA4mfByQTNjNWTkZ1H73fTb58YE-CzY6YRDUC9OroXqwaU-5Hx9PeueDP5GDEsdL2mIhiuZ599tJtlEcgrm1D4RXqDAqxtPwyJxw=w475-h359-no "o5HDpgUusOs4DzBDC6ZHBuHWWYCfAkHJIDH4lpkz3TjJ4EwgVetePiRTaPgG9wYWAx17IafO1nX8dqb8ubTwJipnEiDi3zserHzsfvmt67dZHGkyBxxUz3m0WHDVN0uoa92FrP09zduofn04qvWTKwz_1nb-Nl1TLps7h1Y4ERGdPG701Asko9R0nm0hE4FEMEihzlz0JwuckDxMaVwqNzu3CGfCymYcUVduCQFbpbXxiLp8EhJeWqLe5LneOuvu_LHeTad1_vFhCl0pbfhzER8rizVy8JQiO9X88Lj0iEsbcwHy2B5_6BgLvmDpqWBcr2xE6OV7ijkLMfdey_g01qIcWpPAWhtzfLzhXcYhJM-26atZwBL-fOaTc3ZaEojWzH2502AD0uankPGRiRs9fYsKlb3YIGQSLqBHJ9x7ALQB1b5pLkDsDqmsFr-UzOwr1Y7GXJfry5-ppHkQpUWiXYQg7i2_FvQaeBvZY0dSiTrEvaEjIv5y3sXBQQNMc-8-kQwb1enitubztwFHzgfk0AoVJv3DqZHjlWJTWPUzHq4iYH-2KETM8Ji9-WdMyt6bSvXrOKbwj-fdLXO3gF3zC62XP8sNvjvVufUYxd4UXGbi-L6gA4mfByQTNjNWTkZ1H73fTb58YE-CzY6YRDUC9OroXqwaU-5Hx9PeueDP5GDEsdL2mIhiuZ599tJtlEcgrm1D4RXqDAqxtPwyJxw=w475-h359-no")
+
 On embarque ensuite pour notre deuxième vol vers Bodo. Peu avant le décollage le capitaine nous annonce qu'on doit attendre des passagers dont le vol précédent a du retard. Après 40 minutes d'attente finalement on part...sans ces passagers. On a attendu pour rien. On arrive donc à Bodo où l'on doit récupérer nos bagages pour les enregistrer pour notre vol suivant vers Svolvaer. Avec les 40 minutes de retard on doit se dépêcher pour ne pas rater le vol. Et là c'est le drame le sac d'Antoine n'est pas sur le tapis. Il a dû rester à Oslo.
 
 Tant pis on saute dans l'avion sans le sac on s'en occupera plus tard. Arrivés à destination on prend des nouvelles du sac. Apparemment il a été retrouvé mais il ne pourra pas être envoyé sur place avant demain matin. Iil faut donc qu'on trouve une solution pour dormir cette nuit car bien évidemment la tente est dans le sac d'Antoine. On prend un taxi pour rejoindre le centre-ville et essayer de trouver un hôtel. Malheureusement à cette époque de l'année tous les hôtels sont pleins. Finalement on trouvera quand même une place dans un camping (une chambre deux place) pour passer la nuit.
 
-##  Svolvaer
+## Svolvaer
 
 Aujourd'hui on a deux missions récupérer le sac d'Antoine puis essayer de se rendre au début de la randonnée à Delp. Vers 8h30 on reçoit un appel de l'aéroport qui nous prévienstque le sac est arrivé. On prend donc le bus vers 9h45 pour aller le chercher. Première mission accomplie. Après avoir vérifié les horaires de bus, on se rend compte que çela va être compliqué d'aller à Delp aujourd'hui. Changement de plan on décide de se rendre à Sandsletta (départ de l'étape 2). Le bus pour s'y rendre est 15h. En attendant on décide d'aller faire une petite randonnée dans les environs de Svolvaer. On prend le taxi pour se rendre au début de la randonnée. On tâtonne au début pour trouver le bon chemin. On commence l'ascension sur un grand chemin puis on bifurque sur la droite dans un petit chemin dans les bouleaux. Commence alors une ascension à brut. Après une petite demi-heure d'efforts on arrive au sommet et on a une vue magnifique sur la ville malgré le temps couvert.
 
@@ -22,7 +24,7 @@ Avec le soleil ça serait vraiment sublime. Au sommet il y a une boîte aux lett
 
 On profite aussi de la douche chaude du camping et aussi des plaques de cuisson pour cuisiner notre premier repas. Au menu, pâtes aux vermicelles et riz au boeuf piquant. On n'attend pas que le soleil se couche pour aller dormir car ici il ne se couche jamais à cette époque de l'année. D'ailleurs c'est assez perturbant de se réveiller à 3h du matin et d'avoir la même luminosité qu'à 20h.
 
-##  Sandsletta- Svolvaer
+## Sandsletta- Svolvaer
 
 Après cette première nuit sans nuit, réveil tranquille vers 7h. Le temps d'avaler un muesli et un café on décolle vers 8h15. Le début de l'étape est le long de la route. Puis on bifurque dans une allée privée. Au bout de l'allée l'étape commence vraiment par une ascension dans une forêt de pins. La montée continue mais le terrain change on traverse de la tourbière bien humide. Je commence à douter de la pertinence de mon choix de chaussures. Un peu plus haut, nouveau changement de terrain, de la neige, que l’on doit traverser sur quelques mètres. Peu après vers 10h on arrive au lac Isvatnet, couvert de glace.
 
@@ -36,7 +38,7 @@ On croise alors les premières personnes de la journée et bien sûr ce sont des
 
 On finit de longer le lac pour arriver au lieu de notre campement. On attend que la pluie cesse pour installer la tente. Alors qu'il nous a fui toute la journée le soleil pointe le bout de son nez. Ça fait tout de suite un bien fou. On en profite pour faire sécher la tente et les affaires. Puis on va faire un tour en ville pour me racheter des bâtons et faire des provisions pour les prochaines étapes qui seront en bivouac et donc sans ravitaillement. C'est d'ailleurs aussi à ce moment-là qu'on achète ce carnet. A notre retour au camping les français croisé splutôt sont en train de monter leur tente. Ils ont fait demi-tour à cause de la neige. Le reste de la soirée est ensoleillé et on en profite grandement.
 
-##  Svolvaer - Kleppstad
+## Svolvaer - Kleppstad
 
 A notre réveil vers 7h le soleil brille. On en profite pour ranger la tente au sec. on a bien fait car il ne tarde pas à pleuvoir. On repousse le départ dans l'attente d'une éclaircie mais cela semble peine perdue. On profite d'une légère accalmie pour lever le camp. Finalement l'averse ne durera pas longtemps. On commence par longer un lac avec des rives aménagées comme hier. ça commence tranquillement. puis on arrive près d'une cascade et un but sur un panneau indiquant Damvatnet. Là commence l'ascension. Vu les alentours ça risque de piquer. Et effectivement ça monte à pic. On se retrouve rapidement au pied d'une conduite forcée qui tombe de la montagne avec de part et d'autre des cordes qui nous indique qu'on va bien devoir passer par là.
 
@@ -46,7 +48,7 @@ Le temps d'une pause on aperçoit au loin les français qui arrive au niveau de 
 
 Après des débuts infructueux, on est assez rapidement embarqué par une norvégienne qui se balade dans les Lofoten avec la voiture d'une amie. Et par chance elle passe exactement par l'endroit où l'on souhaite se rendre c'est-à-dire le début de l'étape suivante Vikjorda. Une fois descendu de la voiture et notre conductrice remercier reste à trouver un bivouac. on s'éloigne un peu de la route et on trouve rapidement un endroit pour planter la tente. Le soleil brille, sans aucun nuage. La vue est dégagée sur les montagnes en face. La fin d'après-midi passe tranquillement. Ce soir c'est la première fois qu'on utilise le réchaud p3rs qui nous avait déjà servi en Corse. C'est non sans mal qu'on parvient à faire chauffer l'eau car il y a beaucoup de vent. Mais ce sera suffisant pour chauffer les pâtes aux bolets de ce soir. vers 21h30 le soleil se cache derrière la montagne avoisinantes et c'est pour nous l'heure d'aller dormir.
 
-##  Vikjorda - Lac de Store Kengg&#229;rsvatnet
+## Vikjorda - Lac de Store Kenggårsvatnet
 
 L'étape d'aujourd'hui s'annonce rude avec 1400 mètres de dénivelé positif. la montée commence tranquillement en passant entre plusieurs petit lacs, puis la pente se raidit. niveau sentier c'est comme hier, inexistant. Au niveau d'un palier on croise une française (évidemment) qui fait la route inverse. Elle nous indique succinctement le chemin et nous annonce que la vue au sommet est magnifique. On continue un peu de monter et on fait une pause près d'un gros cairn peint en rouge.
 
@@ -60,7 +62,7 @@ A notre arrivée, un groupe de norvégiens (avec leurs chiens) y fait une pause.
 
 On sera rejoint un peu plus tard par un groupe de jeune norvégiens qui viennent passer la soirée dans l'abri et pêcher au bord du lac.
 
-##  Lac de Store Kengg&#229;rsvatnet - Leknes - Napp
+## Lac de Store Kenggårsvatnet - Leknes - Napp
 
 Aujourd'hui c'est plus ou moins une étape de transition, au programme 2h30 de marche. À notre réveil le soleil brille sous un ciel voilé. On déjeune tranquillement et on décolle. À peine parti remarque une tente non loin de l'abri, c'est le couple de Français qu'on avait perdu deux jours plus tôt. En fait ils ont fait la portion de route entre Kelppstad et Vikjorda à pied. Du coup ils sont arrivés un peu tard ici. On leur dis à plus tard, peut-être. Et on commence cette étape en contournant le lac par sa rive droite.
 
@@ -70,7 +72,7 @@ On décide de s'avancer dans l'étape du lendemain pour trouver un endroit où b
 
 on continue à la recherche d'un point d'eau mais il ne semble pas y en avoir à proximité. on fait une pause et on cherche un endroit pour planter la tente. On en trouve un et on installe la tente un peu dans la précipitation. après coup on se dit qu'on aurait mieux fait de rebrousser chemin et de se poser près d'un point de vue mais maintenant qu'on a installé on a pas le courage de tout remballer et tout réinstaller ailleurs. Comme nos stocks de son faible je fais une mission d'eau jusqu'à la source la plus proche à environ 15 minutes. Bientôt il se met à pleuvoir et on trouvera tous dans l'attente. On ne la quittera pas jusqu'au lendemain matin. Petit avantage, pas de problème de vent pour allumer le réchaud dans le auvent de la tente.
 
-##  Napp - Nusfjord
+## Napp - Nusfjord
 
 La nuit a été très venteuse, difficile de bien dormir. Le réveil est donc un peu poussif. Le début de l'étape et la continuité d'hier on mange la côte en montant et descendant en fonction des cirques et des caps qui se succèdent.
 
@@ -80,7 +82,7 @@ Le village est une véritable attraction touristique. On y arrive d'ailleurs en 
 
 Puis on continue à la recherche d'une autre bivouac du soir. On trouve un spot en hauteur à l'écart du sentier et avec bien sûr une vue sur la mer. La soirée est assez fraîche.
 
-##  Nusfjord - Ramberg
+## Nusfjord - Ramberg
 
 Au réveil le ciel semble être dégagé. Mais le temps de commencer à ranger et de prendre notre petit-déjeuner les nuages ont repris leur place et le vent s'est levé. On descend de notre perchoir et après quelques centaines de mètres on croise le couple de français, ça devient une habitude. La première partie de l'étape est sympathique, comme hier le long de la côte.
 
@@ -90,7 +92,7 @@ On s'installe au camping et on prend notre repas du midi. Comme il est encore t�
 
 On va faire un petit tour à la plage qui est juste à coté du camping. Mais on ne mettra pas un pied dans l'eau qui est glaciale, surtout avec le peu de soleil qu'il y a aujourd'hui. Puis vient le moment que l'on attend depuis 4 jours, la douche. 4 minutes d'eau chaude qui font un bien fou. Ensuite c'est le train-train de la randonnée on va faire les courses on fait une petite sieste et on savoure un bon lyophilisé.
 
-##  Ramberg - Selfjord
+## Ramberg - Selfjord
 
 Il est tombé quelques gouttes pendant la nuit. Au réveil le ciel est très couvert. On profite des installations du camping pour se faire un bon petit déjeuner au chaud. on essaie de faire sécher la tente avec les mecs éclaircie. Du coup on a bien pris notre temps il est 9h quand on prend la route. La route au sens littéral puisqu'on commence par longer le 10 puis une rose secondaire pendant environ 6 km. Enfin on commence à marcher dans un sentier. Au loin on aperçoit un groupe , 0n revient assez vite sur eux et bien sûr se sont encore et toujours des français. Un petit point de vue où on se pose un instant. Puis on continue l'ascension vers le sommet du Ryten. Le groupe de français de nous passer devant. La montée est assez roulante avec des massages un peu plus abrupte. La vue en haut et fabuleuse.
 
@@ -100,7 +102,7 @@ On y prends un petit gâteau en guise de dessert. il y a pas mal de gens qui ont
 
 On tombe sur un sentier qui nous mène jusqu'à notre point de chute. A la fin de l'étape on ne trouve pas de tout de suite à un endroit pour bivouaquer. On décide de continuer un peu point on trouve un endroit sec et à peu près plat mais la vue n'est pas top. on continue donc encore un peu plus , on traverse une zone très humide. finalement on trouve un endroit sympa avec une belle vue sur le fjord. On est un peu court sur les stocks d'alcool à brûler car on n'a pas réussi à en trouver un Ramberg. Il nous reste trois ou quatre repas et on a à peine de quoi en faire plus d'un. Alors ce soir on improvise un mini feu aidés par de l'allume-feu. Après des débuts difficiles le lyophilisé est chauffé avec succès.
 
-##  Selfjord - Reine - Moskenes
+## Selfjord - Reine - Moskenes
 
 Il a plu une bonne partie de la nuit. Heureusement au matin ça se calme un peu ce qui nous laisse le temps de ranger la tente un peu mouillée quand même. On commence l'étape en finissant de contourner le fjord puis un lac sur un terrain assez humide. Devant nous se dresse la première difficulté de la journée. Plus on se rapproche plus cela parait impressionnant. La montée est costaud. 400 m de dénivelé sec sans répit. On croise pas mal de gens et surtout des français. Arrivés en haut on continue sur le flanc de la montagne jusqu'à un autre col. Le temps n'est toujours pas très favorable et le vent souffle fort. On passe de l'autre côté et on descend vers un lac. Il ne nous reste plus qu'à franchir un petit col pour atteindre Plus loin on aperçoit une plage.
 
@@ -110,7 +112,7 @@ Vers 15h30 le ferry tenta tendu pointe le bout de son nez. On demande si il peut
 
 Depuis Reine on prend un bus jusqu'à Moskenes. On s'installe au camping qui deviendra notre camp de base pour les trois prochains jours
 
-##  A i Lofoten
+## A i Lofoten
 
 On se réveille sous la pluie. Mais heureusement on peut prendre notre petit-déjeuner au chaud et pas besoin de démonter la tente. On prend le bus pour se rendre à A i Lofoten où l'on compte faire l'étape qui devait être la dernière de notre traversée. On commence à marcher vers 9h40. Le temps est toujours assez maussade. On longe le lac Agvanet par la droite. En observant le relief au loin on se demande bien où l'on va pouvoir passer. Ça monte à pic de tous les côtés. Au bout du lac le verdict se confirme ça va grimper sec tout droit dans la pente. Les norvégiens ne semble pas connaître le concept de lacets. Si tu veux monter là-haut tu y vas tout droit, c'est simple. Mais comme bien souvent la vue au sommet compense les efforts demandé. On est sur un perchoir avec une vue sublime des 2 côtés sur un lac.
 
@@ -118,7 +120,7 @@ On mange sur place. on aperçoit en contrebas un groupe qui commence l'ascension
 
 Malheureusement le temps est assez couvert et idéal. Il commence à pleuvoir peu après. on reste quelques temps dans l'espoir d'une éclaircie mais celle-ci de ne viendra pas c'est plutôt l'inverse dans la descente on se prend une bonne averse. De retour à haut on décide d'aller faire quelques courses d'appoint dans le village de Sorvagen puis on poussera finalement jusqu'à Moskenes à pied.
 
-##  Munkan
+## Munkan
 
 Ce matin, il fait beau. On déjeune tranquillement et on prend la route de Sorvagen vers 8h30. Après 30 minutes de marche le long de la route, on tourne à droite pour longer le lac de Sorvagen sur la gauche. Assez vite un panneau indique Munkebu. Le sentier est bien visible car c'est une randonnée très connue et très fréquentée. La montée se fait tranquillement. On arrive assez vite à Munkebu que l'on contourne sur la droite pour se diriger directement vers le sommet de Munkan. La fin de la montée est un peu plus raide mais ça reste raisonnable. Et attention les yeux au sommet ça envoie du très très lourd.
 
@@ -128,7 +130,7 @@ Dans la descente on croise pas mal de monde dont le groupe de français que l'on
 
 Puis vient le temps de redescendre vers Moskenes. On hésite passer direct tout droit vers Moskenes mais on n'est pas sûr qu'il y ait un passage. On choisit donc la sûreté en retournant à Sorvagen mais en passant par la rive droite du lac.
 
-##  Veinstinden
+## Veinstinden
 
 Après une nuit compliquée le réveil est difficile surtout pour moi. Le temps d'émerger et de se préparer on part vers 9h15. On passe voir les horaires de ferry pour ce soir. Il y en a à 14h45 puis 20h30. Comme on a pas envie de se presser et avec la randonnée d'aujourd'hui ça paraît compliqué de pouvoir prendre celui de 14h45. Nous voilà donc parti pour notre objectif de la journée le sommet du Veinestinden. On commence par prendre un chemin qui longe la route vers Reine. Au niveau d'un pont on traverse et on débute le sentier le long d'un lac pour changer. Le sentier est assez sinueux et pas très roulant. Au fond du lac le sentier disparaît en même temps que commence l'ascension. Faute de sentier on monte à travers la pente en longeant une chute d'eau. On reprend notre souffle au niveau du lac qui alimente la chute d'eau.
 
