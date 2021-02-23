@@ -18,5 +18,6 @@ fields:
   name: authors
   label: authors
 pages:
+- content/trips/pays-d-allevard-et-sept-laux.md
 - content/trips/tour-de-la-vallee-de-munster.md
 - content/trips/tour-du-queyras.md
