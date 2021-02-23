@@ -4,7 +4,7 @@ categories = []
 date = 2019-09-30T22:00:00Z
 tags = []
 title = "Tour du Taillefer"
-
+featuredImage = "uploads/img_20200721_111517.jpg"
 +++
 Petite rando en solo de trois jours dans le massif des Ecrins.
 

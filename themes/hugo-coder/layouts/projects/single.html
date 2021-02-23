@@ -1,10 +1,7 @@
-
-
 {{ define "title" }}
   {{ .Title }} · {{ .Site.Title }}
 {{ end }}
 {{ define "content" }}
-{{ $mymonths := index $.Site.Data.mois }}
   <section class="container post">
     <article>
       <header>
@@ -16,10 +13,13 @@
             <span class="posted-on">
               <i class="fa fa-calendar" aria-hidden="true"></i>
               <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-                {{ index $mymonths (printf "%d" .Date.Month) }} {{.Date.Format "2006"}}
+                {{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
               </time>
             </span>
-
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              {{ i18n "reading_time" .ReadingTime }}
+            </span>
           </div>
           {{ with .Page.Params.Authors }}{{ partial "taxonomy/authors.html" . }}{{ end }}
           {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
