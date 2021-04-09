@@ -2,7 +2,6 @@
 authors = []
 categories = []
 date = 2020-07-16T22:00:00Z
-slug = "vosges"
 tags = []
 title = "Les Vosges avec des belges !"
 
