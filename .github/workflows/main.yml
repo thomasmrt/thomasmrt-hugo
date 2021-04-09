@@ -11,6 +11,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "0.65.3"
+          extended: true
 
       - name: Build
         # remove --minify tag if you do not need it
@@ -19,7 +20,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.token }}
+          personal_token: ${{ secrets.TOKEN }}
           external_repository: thomasmrt/thomasmrt.github.io
           publish_dir: ./public
           #   keep_files: true
