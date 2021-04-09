@@ -18,7 +18,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Thomas Martin"
     description = "My personal website"
     keywords = "blog,dreamer,personal"
-    info = "Trecker, Maker, Dreamer"
+    info = "Hicker, Maker, Dreamer"
     avatarURL = "images/avatar.jpg"
     footerContent = "Enter a text here."
 
@@ -89,7 +89,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Instagram"
     icon = "fa fa-instagram"
     weight = 1
-    url = ""  
+    url = "https://www.instagram.com/thmartin/"  
   
 [[params.social]]
     name = "Github"
@@ -114,11 +114,6 @@ disqusShortname = "yourdiscussshortname"
 
 [menu]
 
-
-	[[menu.main]]
-	name = "Blog"
-	weight = 2
-	url = "posts/"
 
 	[[menu.main]]
 	name = "Trips"
