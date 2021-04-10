@@ -104,7 +104,7 @@ Le début de l'étape commence sur les crètes. C'est assez physique mais le bea
 
 On continue encore un peu sur un chemin verdoyant et à plat avant d'attaquer l'ascesion de la journée. Par rapport à ce qu'on a vu jusque là la montée est asse facile, pasraide et sans difficulté technique. On arrive assez reapidemment au col. Le temps de la montée des nuages ont fait leur apparitions. Les nuages s'amoncèlet sur la montagne et lav ue du coté d'Asinau est bientot complètement bouchée. On a quand même eu le temps d'apercevoir le chapiteau qui sert de refuge (celui-ci ayant brûlé en début de saison). Commence alors la longue et douloureuse descente. COntraierement à la montée, lma descente est à pics et fait souffrir nos pieds (qui ont déjà beaucoup donné). A l'arrivée on en a ras les chaussures!
 
-Les nuages sont toujours et ont du mal à partir. Il faudra pattienter pour profiter de la vue. ![](file:///C:/Users/thoma/Documents/site/www/corse/img/jour09_asinau.jpg)
+Les nuages sont toujours et ont du mal à partir. Il faudra pattienter pour profiter de la vue. 
 
 ## Etape 10Asinau - Paliri - Conca
 
