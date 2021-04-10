@@ -116,8 +116,4 @@ Comme il est encore assez tôt on est seul pour profiter du moment. Ça risque d
 
 Comme la météo des prochains jours est incertain, on choisit de profiter du beau soleil pour rejoindre Conca dès ce soir. La suite de l'étape n'est pas très dure mais assez longue. On descend assez franchement puis on trouve un relied plus plat sur des sentier sablonneux. Après une petite montée (assez raide tout de meme) on aperçoit Bocca d'Usciolu qui annonce la descente vers Conca. Mais il nous faudra arpenter le flanc de la montagne assez longtemps avant de l'atteindre. La descente vers Conca n'est pas difficile mais on commence à en avoir plein les pieds. Bientôt on atteint la route mais on n'est pas encore arrivés. Ce dernier passage sur la route nous achève. Mais ça y est on peut souffler, on a boucler le GR20 !
 
-![](file:///C:/Users/thoma/Documents/site/www/corse/img/jour10_conca.jpg)
-
 Le soir on profite bien du confort du refuge de Conca. Et surtout de son restaurant pour se faire plaisir sur le repas. Après l'effort, le réconfort.
-
-![](file:///C:/Users/thoma/Documents/site/www/corse/img/jour10_resto.jpg)
