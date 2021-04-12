@@ -28,6 +28,9 @@ Aujourd'hui, l'aventure commence vraiment. La première nuit en tente a était r
 
 On grimpe à pic, il faut mettre les mains. On arrive tranquillement au refuge en début d'après-midi. Le gardien n'est pas là, on s'installe en attendant. Puis on préfère prendre une bière et un morceau à manger plutôt que notre douche. On regrettera cette décision plus tard quand on devra faire une heure et demi de queue pour cette fameuse douche (une seule douche, beaucoup de monde). Vient l'heure du dîner et du premier lyophilisé chaud. Premier test du réchaud P3RS.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3dJNg4CMzCGE7d7oOC9Z9-pHiUBXDOmqRZGjOpbKckrfINW9qJOCHH87FuW0S0z2emRO_eXCSAPNA6SJR0gDyM4u-1cZ26xpzehaqKZpT1LFwzwa3IrPsjcpTz7hHu-luk6K-5gtRWHNfmq9rAvlB5VXw=w1244-h939-no?authuser=0)
+
+
 Les débuts sont compliqués. Il fait grand soleil et on ne voit pas les flammes. Autre difficulté, on a pas de moyen de mesurer la quantité d'eau à faire chauffer. Résultat on en a trop mis et on s'est retrouvé avec un soupe de chili con carne. Tout de même rassasié, on profite de notre premier coucher de soleil sur la montagne corse. La température chute rapidement, on ne fait pas de vieux os, on va se coucher, il est 20h10.
 
 ## Etape 2 Ortu di Pobbiu - Carrozu - Ascu Stagnu
