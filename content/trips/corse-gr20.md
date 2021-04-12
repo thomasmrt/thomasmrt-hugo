@@ -69,7 +69,11 @@ L'étape commence par un petit sentier à plat en sous bois (c'est rare, on en p
 
 Ils finissent par nous laisser passer mais à l'un des pires moments de la montée. Le sentier monte à pic, en ligne droite dans un pierrer. Pour ne pas paraître ridicule après avoir doublé on se sent obligé d'accélérer. On monte rapidement dans les tours. Heureusement le profil s'aplanit et c'est l'occasion de faire une pause.
 
-Devant nous la montagne s'élève encore.On aperçoit quelques traces de neige un peu plus haut. La suite de la grimpette sera très raide dans le pierrier. Le ciel est couvert et ça souffle très fort. On arrive à la pointe des éboulis, point culminant du périple (2600m). La vue est quelque peu bouchée, on ne montera pas au sommet du Monte Cinto. Les jambes disent merci.
+![](https://lh3.googleusercontent.com/pw/ACtC-3e47oASLaWKI7RMTOkyCMEycAgksXjSIVinsfk6bU6f5ipNmbzurdfG184mDehyr-KaICNGU1jC40rKH4-xQc01PMDKK24PPNarMYZyX0mDFiZqT26CAC7sNTfcJ7Qf4z4F53DzIFo5WhZYGjCcd9XFjQ=w1252-h939-no?authuser=0)
+
+Devant nous la montagne s'élève encore.On aperçoit quelques traces de neige un peu plus haut. La suite de la grimpette sera très raide dans le pierrier. Le ciel est couvert et ça souffle très fort. On arrive à la pointe des éboulis, point culminant du périple (2600m). La vue est quelque peu bouchée, ça ne vaut pas le coup au sommet du Monte Cinto. Les jambes disent merci.
+
+![](https://lh3.googleusercontent.com/pw/ACtC-3dcoKOqOz1rlD8My6TA0KUlP0IorfhuOOwlVWyQibgm71sSWSErTAOUurBRdQp1q9sgRHoLYFGQmgUDSo5cpXtDKEHH5d5fbtolEWXJHKr_VrDI84nqKwlQIpLaH67Qea9KAoGcW63vIGwgLZChIhXy-Q=w1528-h549-no?authuser=0)
 
 S'ensuit un passage sur les crêtes en surplomb d'un petit lac. On arrive au Bocca Crucetta et on commence la descente. Peu après on aperçoit le refuge en contrebas.Le début de la descente est assez clément. Mais la descente est longue, très longue. J'accuse le coup ça devient dur de mettre un pied devant l'autre sans se casser la gueule. Il est temps de faire une pause au bord du torrent qui coule à côté. Je trempe les pieds dans l'eau, elle est bien fraîche.
 
