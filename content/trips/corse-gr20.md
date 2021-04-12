@@ -55,6 +55,8 @@ Après ça commence la deuxième ascension de la journée, sur des gros blocs de
 
 Au sommet, un mec avec un sac léger nous dépasse. Il est parti de Calenzana ce matin (triple!) et compte tripler tous les jours. Commence alors la descente vers Ascu. On aperçoit vite le refuge en contrebas. La descente s'annonce longue. Les jambes commence à peser et les pieds à chauffer. On descend lentement mais surement pour arriver au refuge sur les coups de 18h. A cette heure là difficile de trouver un emplacement pour planter la tente. On en trouvera tout de même un. Début de soirée classique: montage de tente, douche et la fameuse Pietra de fin d'étape. Pour nous récompenser de cette longue journée, ce soir on mange au resto! Un bon repas pour nous remettre de nos émotions. Au menu du randonneur: soupe, crudités, pâtes et sanglier et dessert. En espérant que ça nous donne des forces pour la suite.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3ceOHYNz01LYgOs0MT8afzf7hQZZrZjCHbDeuRFKmO6q2uuA8YqxWVmQIErMZp-v5hZJTZOtiI0P_cwjSDL1vlaO4v90rze-GeJPqW747Ou_T0hf_E4vnxNNiPe5p74IIbNQ_Xx3P3LUuc6exsmIFdGrw=w1244-h939-no?authuser=0)
+
 ## Etape 3Asco Stagnu - Tighjettu
 
 Encore une fois on se lève avant le réveil. Le sol est un peu dur à notre goût. Croissant, jus d'orange, café engloutis, c'est reparti pour une nouvelle journée. On part à l'aurore.
