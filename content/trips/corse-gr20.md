@@ -33,6 +33,8 @@ On grimpe à pic, il faut mettre les mains. On arrive tranquillement au refuge e
 
 Les débuts sont compliqués. Il fait grand soleil et on ne voit pas les flammes. Autre difficulté, on a pas de moyen de mesurer la quantité d'eau à faire chauffer. Résultat on en a trop mis et on s'est retrouvé avec un soupe de chili con carne. Tout de même rassasié, on profite de notre premier coucher de soleil sur la montagne corse. La température chute rapidement, on ne fait pas de vieux os, on va se coucher, il est 20h10.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3ccQRzUUi3mXWDcsp6YF482wY7CyPE3d64AzLmSKVcEJediT7RBht1KD37Q4smBb_5rNVMZFxjg0EDyGAAHHHe1vQOv8NsgAEcJKFlxpCQ_IRHgA_tYAGFw1QOKuX4tFq5doDEmPOp1HAyueGf-dMAy7w=w1244-h939-no?authuser=0)
+
 ## Etape 2 Ortu di Pobbiu - Carrozu - Ascu Stagnu
 
 Eh oui, aujourd'hui on a doublé! Ce n'était pourtant pas notre objectif de la journée. On se lève à peu près à la même heure qu'hier (6h20) Petit déjeuner complet au refuge et pliage de tente, on part sur le sentier vers 7h05. Petite montée dans les pins puis ça redescends légèrement. Après ça, on monte pendant un bon moment sur à travers des gros blocs de pierre pour arriver sur les crêtes, ça souffle sec.
