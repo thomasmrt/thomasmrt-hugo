@@ -51,6 +51,8 @@ Viens le moment de la descente. vers Carozzu. Des cailloux, des cailloux, encore
 
 Après ça commence la deuxième ascension de la journée, sur des gros blocs de pierre et en plein cagnard. Elle sera longue, chaude et difficile, surtout pour moi. Antoine a l'air en forme, moi je galère sous la chaleur. On rattrape assez vite les belges qu'on avait redirigé plus tôt et on se dit que ça va être dur pour eux (surtout pour la fille). La montée est raide et on en voit pas le bout. On est bien content d'arriver au col. On commence à descendre avant de remonter de nouveau. Heureusement la montée est plus clémente.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3fiFIxl8HnIS56SoEP71qKgLsnTfD3NLB6YOsSFKQ5OZd51VH5xsdfupaJu8P4FgqEEeSbM2mcZJVlm3f7ZCTdvthTZz_y7D-TJFh8e5VMb_A0-w875KzeEc_gVBsGxeDukw1824yLW5gmhKZd1wbY-Xg=w1244-h939-no?authuser=0)
+
 Au sommet, un mec avec un sac léger nous dépasse. Il est parti de Calenzana ce matin (triple!) et compte tripler tous les jours. Commence alors la descente vers Ascu. On aperçoit vite le refuge en contrebas. La descente s'annonce longue. Les jambes commence à peser et les pieds à chauffer. On descend lentement mais surement pour arriver au refuge sur les coups de 18h. A cette heure là difficile de trouver un emplacement pour planter la tente. On en trouvera tout de même un. Début de soirée classique: montage de tente, douche et la fameuse Pietra de fin d'étape. Pour nous récompenser de cette longue journée, ce soir on mange au resto! Un bon repas pour nous remettre de nos émotions. Au menu du randonneur: soupe, crudités, pâtes et sanglier et dessert. En espérant que ça nous donne des forces pour la suite.
 
 ## Etape 3Asco Stagnu - Tighjettu
