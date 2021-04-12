@@ -61,6 +61,8 @@ Au sommet, un mec avec un sac léger nous dépasse. Il est parti de Calenzana ce
 
 Encore une fois on se lève avant le réveil. Le sol est un peu dur à notre goût. Croissant, jus d'orange, café engloutis, c'est reparti pour une nouvelle journée. On part à l'aurore.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3f3gJEyJFISlErYCN2qxWid0zjSh_PI1Y-foQsIM7c5fooG-8hT2dPRP2MXcFgBgMdLhupVqqK4nckovBtercVXc6EnNj44opZT8oN6SH6qKK6jchNr8628ekk7BnAXMm9atzcudb-vGFYcePPo_7MzKQ=w1244-h939-no?authuser=0)
+
 L'étape commence par un petit sentier à plat en sous bois (c'est rare, on en profite!). On longe un petit torrent, le traverse sure un passerelle (fixe cette fois) puis l'ascension du jour commence. Ce matin il y a du monde sur le chemin et ça bouchonne dès qu'il y a un peu d'escalade. On avance à un faux rythme, bloqués derrière un groupe pendant 40min.
 
 Ils finissent par nous laisser passer mais à l'un des pires moments de la montée. Le sentier monte à pic, en ligne droite dans un pierrer. Pour ne pas paraître ridicule après avoir doublé on se sent obligé d'accélérer. On monte rapidement dans les tours. Heureusement le profil s'aplanit et c'est l'occasion de faire une pause.
