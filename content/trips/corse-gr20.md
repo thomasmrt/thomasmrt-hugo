@@ -65,6 +65,8 @@ Encore une fois on se lève avant le réveil. Le sol est un peu dur à notre go�
 
 L'étape commence par un petit sentier à plat en sous bois (c'est rare, on en profite!). On longe un petit torrent, le traverse sure un passerelle (fixe cette fois) puis l'ascension du jour commence. Ce matin il y a du monde sur le chemin et ça bouchonne dès qu'il y a un peu d'escalade. On avance à un faux rythme, bloqués derrière un groupe pendant 40min.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3fPVMgkAiaxuIPSVsZDZVYikiD66Qg7nYkN6w5dmWo4GHUOYmSRHaWcIOxbclze-GqqTYgPazvvDTCiTZji6sQWJ_rApNCMa-9wFGV82rZ-Fkv6ntOx1_qO0lNdsCq8WEXBeaWv8MTtHMU4OwAVJdtNig=w708-h939-no?authuser=0)
+
 Ils finissent par nous laisser passer mais à l'un des pires moments de la montée. Le sentier monte à pic, en ligne droite dans un pierrer. Pour ne pas paraître ridicule après avoir doublé on se sent obligé d'accélérer. On monte rapidement dans les tours. Heureusement le profil s'aplanit et c'est l'occasion de faire une pause.
 
 Devant nous la montagne s'élève encore.On aperçoit quelques traces de neige un peu plus haut. La suite de la grimpette sera très raide dans le pierrier. Le ciel est couvert et ça souffle très fort. On arrive à la pointe des éboulis, point culminant du périple (2600m). La vue est quelque peu bouchée, on ne montera pas au sommet du Monte Cinto. Les jambes disent merci.
