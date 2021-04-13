@@ -2,9 +2,10 @@
 authors = []
 categories = []
 date = 2019-09-30T22:00:00Z
+featuredImage = "uploads/img_20200721_111517.jpg"
 tags = []
 title = "Tour du Taillefer"
-featuredImage = "uploads/img_20200721_111517.jpg"
+
 +++
 Petite rando en solo de trois jours dans le massif des Ecrins.
 
@@ -12,9 +13,17 @@ Petite rando en solo de trois jours dans le massif des Ecrins.
 
 Apres une nuit a Grenoble, je fais 40 minutes de route pour rejoindre le point de depart de la randonnee, l'Alpe du Grand Serre. Je me gare, j'enfile nes chaussures et me voila parti. Mais avec l'excitation du départ je n'ai pas pensé a vérifier que j'avais bien tout et au bout de 10 minutes je me rends compte que je n'ai pas mis le rechaud dans mon sac. Marche arriere, retour a la case départ. Cette fois ci c'est bon j'ai tout, on peut y aller.
 
+![](https://lh3.googleusercontent.com/1Y7d-iDa9latwRqVwXrnODRkVUQlypVrnjJxcGP4GuXxAFFNiyWRA1mOGEBUCFlUdeCspUXHpYzSmIKcgCsLsLLS8T5BEYDBP8Pcn7TYDEq8fuOdVAVBHpD7A2tpz-MkxoRt8l_5-hglr4XQzvSR9T1AKylWPLCbzSyjpJulTCgMKsriDTHBr3B1EKK4TqIbBp4GnUkbJkBibifAI8k1TvoTecdFvoE84P2lDcfa_TVXBjvN_rT5ZTsi0Y_e9DzZEwcWk-2sPRGfstlg2UdsoBfPw5fRiw1ExJuj7__S6KzgXrctrs0fXvGFBS8VmeWV_a05u1uetVON_3KU_M_Zbs0U7Nz8oD79Xlq0-10P35m709QUKdiDeu0MwSCedsIeFilt0ggGTwRP3TZ-pdsHm3llehTj6Wj6lM7MryypE5eJgWtCIoxRAAxUqMguj4j8g_Wwmu_Moq6nQLNgwSqaIk9hwHL4pcayHRbk5en_lASM3q-l_4l_dxf5l510zNEmpD7f-5vMDUfStly8Xtgqs7cA-_NiOsyGDBmmKsrkiHG1I_0T-Cs-rSd7bjOUCqa7OWqtTaJFK0TyA_zNbQ16Vn8q2LFdbn1ZYMDvMNmI_0b_C7aWBITQFgYDwnUE9UDWXPskeQMZu1ipruBE14ORCWQC_3N1-ovuD7T5qF4XF3_Zp4Gck80hXBVUo1uNkWmG1ehupkaq0IQOGy6VSG-cAoq9=w1252-h939-no?authuser=0)
+
 Il est environ 9h30, le ciel est quelque peu bouché mais j'ai bon espoir que ca se degage. Pas le temps de s'échauffer, la journée commence directemeent par une bonne montée, pas tres longue mais qui suffit a me faire suer. Le chemin redescend assez vite a travers une pistee de ski puis dans le foret ou il y a enormement de champignon, comestible (probablement) ou pas.
 
-Le descente continue jusqu'a retouver la route que l'on longe jusqu'a Moulin Vieux. Le ciel commence a se degager. A la sortie du village le sentier remonte dans la foret pour redescendre immediatemment. C'est possible d'eviter cette petite difficulye en passant par la route en contrebas (qui ne doit pas etre tres fréquentée). A partir de la commence les choses sérieuses. Le chemin se poursuit le long d'un ruisseau avec un pente assez douces. Les couleurs de l'automne commencent a faire leur apparition, c'est assez joli.
+
+
+![](https://lh3.googleusercontent.com/MlzeBmS9SOFX3N4MxTCvhvGKH1La_ouT36sOI6a2Wd2JMmxlgPdTarHhY6gAMwYRot9nFh2nJBz4s_v23ZZl2tV3Ju0TMce6jrICKugSQv5MyBUWnFkwbUCKpHVFBeovUXZLchSSASglSvn2fVcQO0FvTeHkCdM0a6to--nKMGfVgAbTKBdZlMGF5AvuQWEIJQdcJH5TdhKViffttEKkzS_SssWvvl6TpuKSXfZl9-SmK5Bu2rl_9ah8dCPlleXk0WgAPvvh1OvAVUAcvG_YTFCrVQ7pk43LL6qC6NBHdBxB9AwPbYXPKIm_-10tWXyWRkICv0OcPtamNdeeZA6PgI-U0fjjSK8JrqtpRIqstuzUfySYWZ4cYNuZvAiskX8LgFcGy2dNcHw0Oli_Y9Re0ZUFKWhHcpTfi3YSdknjeOFueBGP8K3Zh5I35FMGcCUtaNsuQWqOjR_2olKc3VYo-XeMbyQ8H0wH_GC2kJzMbTsBC56fcSHOgQNNYh7JeDIOUA7O6X78K1a2K5tKyiJcl3Y4HqMovzvwmSaY_4Ifma_1AK8g4ubJrpl0VKn4FjS3CpFJXQn5UQNg_Ac7FG4U7Puw4tA79aPfZ4BRvwCKQUeBitSJd8JO7HRUAWRgwHA_dQprqEZtBU54mZhagqofgWj_asA0P075-TiYK6VS1dm7Ugv0dCt67Wd27jR1XlTSAAvaBOssX2ZMXmdZ8tWm86zu=w704-h939-no?authuser=0)
+
+![](https://lh3.googleusercontent.com/l8bSfYKD44BjHcuQjiMVbtHGY9KbJ-IMHdzkd2MMCX8BKUfgT5Uw21w1AEFrRaTQPGpRABbRGHHCi7o9VFqnXVExXi-CfKBo62IZlhAYkuOCP0GqRNpQ2SXb2qSbi53Ua5f-KXbIocsIJMg-M0JHDQ20uaKdCGVEvvC5M7cJ6fvTPrSSPixxYum2df3_KMUEMz0hE4HGzVb7vaBcl4YEPjU8fFJXcEO1KDBKNEp9YGwoDygvAj6BxwuEXBPaGu8m_33O97h-r6nOUzVzNZhSREI_UG031i7Lcr3CsphZz_LXbQ_lqry-0ic29yUtG9WoxK9n9RVCLa1fTGtFpUWbfzGETcPNIQ7S_oiLnA8ZfDtlzYjo2YeFsUcKf76VlSTKeUaLmyIXYyCb62AQCYzbnLtZDrmdp4bzolLhNBbTMTqdKQzsMJjVIEc7aLYJb-eomF0NtQBZV7P8ZbHAkSuNqNeZfhDgudZr7OegGBJRPPl-Q8VF4MlW7meROim4wnkPaoUW-ErQ3pHobt3mPclcc5oRo8A6jmpkOebpjBRpvSuuDSD5jXvSahVh-T58zJYxxomxoRFWNz9Hx87JiYovdklX767OgOxBsY0jjhbqzOH3li9nrM-n5x6fNWNCU5PIIgMGkDSgQ5lXGsVqdLjFD_vlxGJk08L_G8y3iXqtmivyGiJXR5nO2NulgeANB5rAp-vm6YBYP_va_Y93FyUqR7GE=w704-h939-no?authuser=0)
+
+Le descente continue jusqu’à retrouver la route que l'on longe jusqu’à Moulin Vieux. Le ciel commence a se dégager. A la sortie du village le sentier remonte dans la foret pour redescendre immédiatement. C'est possible d’éviter cette petite difficulté en passant par la route en contrebas (qui ne doit pas être très fréquentée). A partir de la commence les choses sérieuses. Le chemin se poursuit le long d'un ruisseau avec un pente assez douces. Les couleurs de l'automne commencent a faire leur apparition, c'est assez joli.
 
 Plus j'avance plus la montée se fait difficile. On quitte la foret et se retrouve en plein soleil. Ca tape pour un mois d'octobre. Comme je suis tout seul j'ai un peu de mal a trouver mon rythme. Je ne sais pas si je suis simplement en galere physiquement ou je vis tout simplement trop vite. Surement un peu des deux. J'arrive bien claqué a Plan Col sur les coup de 13h. Pause déjeuner bien méritée.
 
