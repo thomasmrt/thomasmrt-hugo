@@ -1,10 +1,10 @@
 +++ 
 date = "2018-12-31"
-title = "Dummy"
-slug = "dummy" 
-tags = ["hugo", "i18n"]
+title = "Poulailler"
+slug = "poulailler" 
+
 categories = ["blog"]
 authors = ["Translation test"]
 +++
 
-Nada para ver aqui!
+En ces temps de confinement il faut bien s'occuper.
