@@ -78,18 +78,34 @@ Une fois le lac de sagne passé la descente commence. La pente est comme de l'au
 
 Ce qu'on vient de descendre il va falloir le remonter. Au début je scrute les alentours du sentier à la recherche d'un endroit plat mais c'est peine perdue. J'hésite plusieurs fois mais je me dis que je peux trouver mieux. Après 40min de montée je commence à en avoir plein les chaussettes, un panneau indique le Pas de la coche à 1h. J'arrive presque en haut et tombe sur un plateau à plat. Je me dit que j'ai trouvé mon lieu de bivouac. Mais je suis pas loin de l'arrivée et suis curieux de voir. Et la c'est le jackpot. Juste avant le col il y a un petit lac avec des emplacement bien plat pour planter sa tente. Je ne pouvais pas espérer mieux. Il y a d'ailleurs plusieurs campement d'installer.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3dyH-QT0UjXOqoYhELLw8n0FoBlT2lOZ3ETZz6Jcvy1t8020cLBDjWhCC1CewdrBbeLDQgZO4fcaG9_KKnErmJ14RhCGjlYpYIVtJdLlFGJdcahtWW817dDXVuKmfCvJITE-OIVQY5x-1DD0Vq8EdMgLg=w1394-h939-no?authuser=0)
+
 Petite baignade pour se rafraichir. J'ai le temps de profiter du soleil encore bien présent. Même après que le soleil s'est couché il fait assez bon dehors, je profite donc longuement du paysage. Le ciel est bien dégagé, j'attend qu'il fassent nuit noir pour observer les étoiles. C'est toujours stupéfiant le nombre d'étoiles qu'on peut voir sans pollution lumineuse.
+
+![](https://lh3.googleusercontent.com/pw/ACtC-3feJZKZkGxTc8mgsPCcN4AF3JM7WOSrGB_qiuIPVCZYD6zpIVaX6LQ7Fn9jf6wDIjxNKVnmIW-SUKjutLnLYrZRTRo5P3a7BrURJuVe63FRlf2WvvdOf9EyBk0qaznn8nhlZc-_NUi3ulfiDOWgxHzSuw=w1252-h939-no?authuser=0)
 
 ## Pas de la Coche - Allevevard
 
 Je me lève un peu avant 7h. Il fait étonnement bon. Je peux sortir de la tente sans me couvrir, ce qui est plutôt rare à presque 2000m d'altitude. Un bon petit déjeuner et c'est reparti pour une nouvelle journée. Je monte un peu pour vraiment atteindre le Pas de la Coche. Puis ça redescend rapidement vers l'Habert d'Aiguebelle. J'en profite pour prendre de l'eau mais je ne prends que 3 litres sur 4 possibles. La descente continue doucement et la vue s'ouvre sur Grenoble.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3fvwVgNdh9yKOBlKQi12Q1Sd05XFjFMa7lNHRdTYhLbeszhaj7ZMkKLbl75s4aAHOc39XKXo-2pjIZEhCQE-KA6oxgN8q6Dr06QFMiy69EaMTs9Fejxp2RpW8_vz0bsGD8qTmCDhfUEtRrAhbWolQXWdQ=w1858-h939-no?authuser=0)
+
 Un peu plus bas il y a plein de framboise sauvages le long du chemin. Elles sont petites mais elles sont bonnes. Encore un peu de descente pour arriver à la station de ski de Prapoutel. Il est environ 10h.Le parcours remonte le long d'une piste de ski bien raide et en plein soleil. Mes réserves d'eau diminuent. La suite de la montée est plus douce en balcon le long de la montagne. En face se dressent le massif du Vercors.
+
+![](https://lh3.googleusercontent.com/pw/ACtC-3c_1-C0Y6b7tazr4oI8XsWr0batPugh-K3iLE4F34zsbgsAZI5Ey59_7WHcfNZKNFQG8fo0BT1TH51bHNYidCaYivdjvrFXmQx4dSE7Hj4kEs0Bh60rZ2BqPxq_kJAx4X8lC9YeBthOyx_nsvorvu4UZw=w1414-h939-no?authuser=0)
+
+
 
 J'arrive juste avant midi au chalet de la Pincerie où j'avais prévu de prendre mon repas et refaire mes stocks d'eau. Malheureusement il est fermé. En vérifiant celui-ci n'est ouvert que pendant la saison hivernale mais ce n'est pas préciser dans le topoguide. Dommage mais ce n'est pas grave j'ai de toute façon de quoi manger de mon sac. Je mange un petit bout et me remet en route.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3eT1g_lznWo7BfZ9Au1BX0VsPFzRjLsP2iPGmaEi5lBkRPKNT1agWOrVbzVhSE2zt0_wVIkjrEwLvLVB4PSDJeQ24riChTM_W-RF48u4mPh2iEchL3MZWiLZSZVa3CwpR3d6Ib2QeHg_25fxj1tC8UyaQ=w1252-h939-no?authuser=0)
+
 Le chemin remonte légèrement vers le Gros Rocher. Il y a une belle vue de chaque coté avec le Vercors d'un côté et Belledonne de l'autre. Il fait bien chaud et mes réserves d'eau commencent à être critiques. En arrivant au refuge je constate qu'il y a vraiment beaucoup de monde. C'est accessible en voiture mais quand même. En fait c'est la fête du Crêt du Poulet. Mais du coup le refuge ne fonctionne pas de manière normale. Il y a un repas d'organiser et il fallait réserver. Finalement après un peu de discussion le gardien me sort un assiette de taboulé avec un peu de fromage. Ca fera l'affaire. autre petite surprise le refuge n'a pas de source d'eau. Ils vendent bien de l'eau en bouteille mais bon. La source la plus proche est un peu en contrebas mais pas sur mon parcours. J'y descends sans sac pour faire le plein.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3f67JmUNz11iPLu7CwHGp_4MBLXr1L86xNVeOw79C8gHasITd2MrPwR14OSZ9KJy0Y2jSZz6If5GsJVsk-0UIxLvvJCcv5o_I7an90s0Ge9O7FK8ciiazFoXjbAs-YCUfrpKV7Jt1AN_gVIdhppTgmAeg=w1920-h770-no?authuser=0)
+
 En partant ce matin je pensais bivouaquer avant de redescendre sur Allevard. Mais finalement je suis arrivé plus tôt que prévu et le monde au refuge ne m'incite pas a rester. J'amorce donc la descente. Celle-ci est longue et sans grand intérêt. Par chance en arrivant a Montouvard une voiture m'aborde et me propose de m'emmener jusqu'a Allevard ce qui m'évite une bonne heure de descente par une chaleur insupportable.
+
+![](https://lh3.googleusercontent.com/pw/ACtC-3cYmZ_3kq6xDDCgzuSZPUM4DTA97hKoIWz7dU1tWP9A3VQD5jp1ePHtdnWTwVugvW2dpEGkhHKps1nX6QCaftFgyZ0p4sHBskthHuAY5PjI4t0CcPe_P3_kug4Kmyf_ANFMF62q-6n4NWPRzZ_bhwLyOQ=w1920-h641-no?authuser=0)
 
 J'aurais peut-être pu prendre un peu plus mon temps et faire cette boucle en un jour de plus. L'itinéraire est sympa même si à mon avis la partie retour vers Allevard vaut un peu moins la peine. Le reste de la traversée vers Chamrousse est peut-être plus intéressants mais il faut prévoir le retour au point de départ.
