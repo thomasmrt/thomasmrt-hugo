@@ -38,6 +38,8 @@ En ce moment c'est la coupe du monde de football et l'équipe de France a joué 
 
 La nuit à 2400m d'altitude a été très froide. On se réveille difficilement vers 7h15. Un petite heure pour prendre notre petit déjeuner et de ranger la tente (bien mouillée par la rosée) et nous voila repartis pour cette deuxième journée de marche. On commence par redescendre légèrement pour retrouver le tracé du GR. On fait le plein d'eau dans le torrent. Puis ça remonte de suite vers le col de Chamoussière. Dans la montée on voit encore beaucoup de marmottes.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3dHKeNsTbkLOpJWfV-RjBbgJLUoSxawHlAzhTn_5hOrgM4wyQFiwfQea6_IJYEmDQGkhmprAMlai3yLbHPyShXv8-tBzOLh7hBXKN8ENHNgak9ComqG1HKoxy0UA8Tc2zeWuvgIHNOqK6Er-66pwikn-w=w1920-h723-no?authuser=0)
+
 Vers la fin de la montée la neige fait son apparition. Je prends un peu d'avance. Quand j'arrive au col, je me retourne et vois Antoine en train de me faire des grands signes. Il me montre une crête et semble observé quelque chose mais de mon point de vue je ne vois rien. Je redescends donc à sa hauteur (sans sac) et je peux enfin voir ce qu'il me montrait. Des bouquetins ! ils sont assez loin et pas facile de les discerner à l’œil. Coup de chance un couple de randonneurs avec une paire de jumelles est avec nous à ce moment là. Malheureusement les appareils photos de nos smartphone ne nous permettre pas d'immortaliser cette rencontre.
 
 Une fois de retour au col de Chamoussière on découvre l'autre versant qui est très enneigé. La descente vers le refuge Agnel (qu'on aperçoit en contrebas) s'annonce sportive.
