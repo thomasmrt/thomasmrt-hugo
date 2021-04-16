@@ -32,6 +32,8 @@ On reprends nos sac et commence la descente vers Saint Véran. On aperçoit une 
 
 On repart donc sans avoir pu acheter de quoi manger pour les prochains jours. C'est dommage car il n'y a plus rien après pour le faire. On commence par redescendre doucement vers le torrent en contrebas. Dans les prairies aux environ on aperçoit plein de marmottes. On traverse le torrent puis on commence à remonter le long de celui-ci. On marche à l'abri des pins et heureusement car le soleil tape bien. Une petite montée un peu plus raide nous mène jusqu'à la Chapelle du Clausis. On décide de bivouaquer juste à côté et de ne pas aller jusqu'au refuge de la Blanche qui se trouve un peu plus loin. Après s'être installé et avoir observé les marmottes qui sont légions par ici, on va se balader jusqu'au lac de la Blanche.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3escT9M_S0nbarPaGuoIb1JYngTg6jF6HPCZJ9aLxT3RdZYYHehbLR4_hRL-o2WkzC_mR_xh51HJ-rb3NGxSnk5lUBDaAb0n_LQgXcSr3no76pUDZbBcI1nZQiALMNp0G1LBGQ13-uYWRmjej-lYBtT-w=w1922-h921-no?authuser=0)
+
 En ce moment c'est la coupe du monde de football et l'équipe de France a joué aujourd'hui. Mais malheureusement il n'y a pas beaucoup de raison dans les environs. On cherche un endroit pour capter et s'informer du score.
 
 ## Chapelle du Clausis - Refuge Agnel - La Monta
