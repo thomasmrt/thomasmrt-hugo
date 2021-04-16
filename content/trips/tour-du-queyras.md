@@ -8,15 +8,17 @@ title = "Tour du Queyras "
 +++
 Après la Norvège, on revient dans l'Hexagone pour 8 jours de radonnée dans le Queyras. L'objectif initial était de faire 10 jours en combinant le tour du Queyras avec le tour du Viso mais on a du revoir notre itinéraire à cause des conditions d'enneigement défavorables. Au final on a fait le Tour du Queyras en 7 jours et une radonnée sans sacs à la fin pour cloturer nos vacances.
 
-## Ceillac - Saint Véran - Chapelel du Clausis
-
 Après un week-end à Nice je rejoins Antoine à la gare de Lyon Part-Dieu puis on continue le trajet en voiture. Première petite péripétie pendant le trajet, on ne fait pas attentionau trajet que nous propose le GPS et on se retrouve à passer par le tunnel de Fréjus, 44€ bêtement dépensés. Nous voila donc en Italie. Deuxième déconvenue, après avoir passé la frontière on se rends compte qu'on est limite niveau carburant et on est pas sur de pouvoir aller jusqu'à la prochaine station service. on fait donc demi-tour car il y a une pompe à essence plus proche. Réservoir rempli, on peut repartir. Comme on est quand même un peu à l'arrache niveau organisation on se rend seulement compte qu'à l'heure ou l'on va arriver tout sera fermé, que se soit les restaurant ou le camping. On s'arrête donc pour manger à Briançon. Estomac rempli, on peut repartir. 
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3camlXfkRci8d4AMH6XAZUzV2LjLlkl3VW7SfvpxDolwmxMl_Aa5F8ZMl7lVE247kU3YOsn94v7P_KvkspIShDU30SkT0wtQ7rI3-W735AEv71ODEvHFE4NUW5p-weRU-i5BdMeTvKv9yyOIycy3s0Lcg=w1252-h939-no?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3d2ovii8wlrxs3YwveGDahCZ2VXO2TUxLYS6o5W3lhIZ5eOZ1INu3i9dnvtf27pTrJRP5zE28KH14qtKxTQR8Pom0XuxhTACqpmRoRMHODYfSxFz3NHVr7iFbF6VSjp2lwZy-cmnDk7y5dC0gqe75vSCA=w1252-h939-no?authuser=0)
 
+## Ceillac - Saint Véran - Chapelel du Clausis
+
 Dernière chose qu'on a oublier de faire, retirer de l'argent, les distributeurs ne courent pas les sentiers apparemment. On s'arrête donc une ultime fois à Guillestre pour accomplir cette mission. Porte-feuille rempli, on peut repartir. La route jusqu'à Ceillac est très sinueuse. On arrive vers 22h30. Comme prévu l'accueil du camping est fermé. On se met à la recherche d'un endroit pour camper. Par chance, l'entrée du camping municipale (qui n'est pas encore ouvert) est dénuée de portail. On se permet donc d'y entrer. On installe la tente en toute discrétion et on se couche.
+
+![](https://lh3.googleusercontent.com/pw/ACtC-3cwUzSJMUr27xS-PJlHDsqLkLPhC6butsqRkwvANs5hAg8aiUiT9ZOUbgLpf3VsN_N75UdqpS8bk6Kn0QDO9l5_yzxDKBGqGJkHbFkhuDIFyFh9fZbabJS_7RJOjJbMXxz2gUK_UwzsfyJb2lz1VFDbkQ=w1252-h939-no?authuser=0)
 
 On se réveille assez tôt (vers 6h) pour démonter la tente. Au passage on se rend compte qu'on a surement choisi le pire emplacement pour poser la tente. Forcément dans la nuit noire c'est pas facile. On repli la tente. On finalise nos sacs. On reprends la voiture pour aller la garer dans le village de Ceillac. On trouveras une place sur le parking du Proxi. On passe à la boulangerie pour acheter du pain et des viennoiseries. C'est bon on a tout, on peut partir.
 
