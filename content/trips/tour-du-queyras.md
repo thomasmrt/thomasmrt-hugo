@@ -22,7 +22,11 @@ Dernière chose qu'on a oublier de faire, retirer de l'argent, les distributeurs
 
 On se réveille assez tôt (vers 6h) pour démonter la tente. Au passage on se rend compte qu'on a surement choisi le pire emplacement pour poser la tente. Forcément dans la nuit noire c'est pas facile. On repli la tente. On finalise nos sacs. On reprends la voiture pour aller la garer dans le village de Ceillac. On trouveras une place sur le parking du Proxi. On passe à la boulangerie pour acheter du pain et des viennoiseries. C'est bon on a tout, on peut partir.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3cUsqOe3jMioUEyqLg9CuN95tBDvDJ2l2EMCkllQzoRxsV1GK3aPq_ftI1O78Uph9TXW06GE8v5291hyw29dbB45ohzEEXquipfocw3VkRBnMuLU-J4ygEog1Tf_mVm3MFsjk_RLhYGMcnLtzm9q6VMuw=w1252-h940-no?authuser=0)
+
 Pas le temps de se mettre en jambe, ça monte direct. Après une heure de marche on fait une pause pour prendre notre petit-déjeuner. Ce début d'étape est rude, ça monte pendant un bon bout de temps. Antoine à quelque difficulté à trouver le rythme (ou c'est moi qui marche trop je sais pas). Après un peu plus de deux heures d'effort on atteint le col des Estronques. On pose les sac pour monter jusqu'au sommet de la Tête de Jacquette qui offre une jolie vue panoramique à 360 degrés. Au somment on trouve beaucoup de cairn et d'abri en ruine.
+
+![](https://lh3.googleusercontent.com/pw/ACtC-3cslk_siBnkt0uZrD5sgqNoM7rWj_8_DxDPWIpdU1XYS4IpIySDi81UQzsr4Pkg23YRHWIFOsZlDQWtZ9-e1OJ7nnJ-iAKd4JtLhQWWI9XNJP6c4TT-ceJxIDl3EhGkjzFET8nGhwRClWJhQ4CI413ubg=w1252-h939-no?authuser=0)
 
 On reprends nos sac et commence la descente vers Saint Véran. On aperçoit une marmotte pas très loin du sentier. On croise un petit groupe de randonneur qui fait le tour dans l'autre sens. Il sont partis de L'Echalp trois jours plus tôt. On discute rapidement et ils nous informe que le tour du Viso est impraticable à cause de la neige. Il va falloir qu'on change notre parcours. La descente continue, abrupte dans une forêts de pins. Il faut ensuite remonter un petit peu pour atteindre Saint Véran. On avait prévue de se ravitailler ici mais les supérettes sont fermer le temps de midi (jusqu'à 15h30). Changement de programme on mange dans un petit restaurant en terrasse.
 
