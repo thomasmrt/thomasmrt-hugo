@@ -12,7 +12,7 @@ Je rejoins Benoit à la gare de Lyon pour prendre le train jusqu'à Annecy. Max 
 
 On se réveille tranquillement à 6h30. On finalise les sacs et prends un petit déjeuner léger et on part pour l'aventure vers 7h30, dans la brume. Montée col de voza. 11h15 pause au contamines. On est bien. Petit soucis de sacs mais rien de grave. Petite cloque au talon pour Ben.compeed en prévention. On repart tranquilou.
 
-![](https://lh3.googleusercontent.com/t9XpBw2SEQZb3uTo1VzjHWMxnvhD3sCegufzFCn9trbqx8il9EuXmrtdI8mrrlGVJwTeCGAgv6C0Buuz-N4oh-nqEdrY9jRBUVXHBVDLF0ya_doVteyhxqTcWoLvqcakEZD4HQRd_SWS8wnudwwYEtwUagSadtO9nTXZIAICYWuax4kgRFWSde_2caZaNFv4-2EIkv9YBfyqzdVHP0gIlnJjxCT9UPHWK6voLbl7NUzzHmeh0fV7H6jCBLWjyvVTTgGbZXG_V5xbHAA6eBWZIaRWTqk4NhF92qpn9S_Fpxqi6ufjod1uzMlLfeNUCvwgT3CdLfcoIip8jPoiRV5ciJ3XruDpqhCkDEaMCQz5EaB7CU2dush9Mn9S47BPx_xlpi1QqaslvzSq7sVA146uCKt5UoDf27VAlkT3vNya6S0EmRl4RQBlFJTEdzCwZXSMRyMvFS1n6txoZnCtAvqtMAt15LdO2xmM399rPvuJTE5jJJFiHzoURDiyNqlcPnjpvm3zkjz-6yH_HQem9RK-fQnWVpAub7IuGuwjFclxdLmj6AjkVC93VHEzcqjQt-SbFVJ4suIss_amVCDOZBD9eeC65xcpX418n1FSS-98BS-8IL-d6Z-F0-XI2TCkyTm2KO1kStOmNL2NhI1qbFYdARnwMPzZLsnqS2wthxvWCCu2iAzueDJP73vKMDIlv9QUtifBSfS2wHUzzYcIRAeHN83t=w1236-h927-no?authuser=0)
+![](https://plus.gopro.com/7f0512d1-bffc-456d-b18d-48cca69afd4d)
 
 Montée col du Bonhomme. Petit coup d'accélérateur sur la fin pour dépasser Marius 😉 encore un peu de montee pour arriver à la croix du Bonhomme. Pas mal de monde sur les sentiers. Début de la descente vers les chapieux. Longue longue descente.
 
