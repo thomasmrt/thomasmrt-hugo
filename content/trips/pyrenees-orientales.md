@@ -13,7 +13,7 @@ Le train nous déposé dans le petit village de Mérens-les-Vals point de dépar
 
 ![](/uploads/1.jpg)
 
-La redescente est un peu plus sportive, difficile de ne pas finir sur les fesses. Je continue de descendre pour bientôt arriver au refuge des Bésignes. Je comptais manger un morceau au refuge mais il n'est pas encore officiellement ouvert. Les gardiens sont arrivés la veille. On se contentera d'un Orangina et de barres de céréales. En discutant avec le gardien il me dit que le passage par le col d'Anyell est encore encombré par la neige et que c'est compliqué de passer sans équipements (deux gars ont bien galéré la veille et sont arrivés très tard au refuge). Il me conseille de passer par la variante qui devrait être plus praticable. Il y a quand même un peu de neige et j'en arrive à perdre la trace.  Après quelques hésitations je m'en sors en longeant un ruisseau. Pour gagner un peu de temps à la descente je ne suis pas le tracé mais coupe dans la pente en visant la gauche de l'étang de Lanoux. Il y a beaucoup de neige dans la descente mais la pente est douce. 
+La redescente est un peu plus sportive, difficile de ne pas finir sur les fesses. Je continue de descendre pour bientôt arriver au refuge des Bésignes. Je comptais manger un morceau au refuge mais il n'est pas encore officiellement ouvert. Les gardiens sont arrivés la veille. On se contentera d'un Orangina et de barres de céréales. En discutant avec le gardien il me dit que le passage par le col d'Anyell est encore encombré par la neige et que c'est compliqué de passer sans équipements (deux gars ont bien galéré la veille et sont arrivés très tard au refuge). Il me conseille de passer par la variante qui devrait être plus praticable. Il y a quand même un peu de neige et j'en arrive à perdre la trace.  Après quelques hésitations je m'en sors en longeant un ruisseau. Pour gagner un peu de temps à la descente je ne suis pas le tracé mais coupe dans la pente en visant la gauche de l'étang de Lanoux. Il y a beaucoup de neige dans la descente mais la pente est douce.
 
 ![](/uploads/gopr0222.JPG)
 
@@ -22,6 +22,12 @@ Au bas de la descente je crois deux randonneurs, leur explique mon itinéraire e
 ![](/uploads/pano_20220527_193338.jpg)
 
 ### Jour 2: Lacs des Bouillouses - Ras de la Carança
+
+J'ai pas super bien dormi et je me fait réveiller un peu après 5h par des randonneurs qui commencent déjà leur journée. J'ai pas beaucoup de motivation pour me lever mais je me dis que c'est mieux de partir le plus tôt possible. Le temps de tout remballer et de prendre un rapide petit-déjeuner me voilà reparti. Les jambes sont un peu lourdes mais heureusement le début de cette étapes est un descente assez douce et ombragée. Longue descente jusqu'à Bolquère puis la Cabanasse. Pendant un long moment on transit entre deux massifs. C'est un peu monotone mais c'est quand même beau.
+
+![](/uploads/1-1.jpg)
+
+Arrivé à Planes, je me trompe de parcours en suivant bêtement le marquage blanc et rouge du GR, seulement voilà à cette endroit plusieurs GR se rejoignent. Je reviens sur mes pas et recommence à monter. La pente est raide mais à l'ombre. 
 
 ### Jour 3: Ras de la Carança - Refuge des Mariailles
 
