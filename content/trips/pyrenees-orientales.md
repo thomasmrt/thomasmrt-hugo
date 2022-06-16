@@ -27,9 +27,39 @@ J'ai pas super bien dormi et je me fait réveiller un peu après 5h par des rand
 
 ![](/uploads/1-1.jpg)
 
-Arrivé à Planes, je me trompe de parcours en suivant bêtement le marquage blanc et rouge du GR, seulement voilà à cette endroit plusieurs GR se rejoignent. Je reviens sur mes pas et recommence à monter. La pente est raide mais à l'ombre. 
+Arrivé à Planes, je me trompe de parcours en suivant bêtement le marquage blanc et rouge du GR, seulement voilà à cette endroit plusieurs GR se rejoignent. Je reviens sur mes pas et recommence à monter. La pente est raide mais plutôt à l'ombre jusqu’au pla de Cedelles. Je ne suis toujours pas sûr de mon lieu d'arrivée. J'hésite à m'arrêter au refuge d'Orri mais c'est une cabane non gardée et il est encore tôt (oui je dis souvent ça).
+
+![](/uploads/gopr0242-1.JPG)
+
+Je décide de continuer au moins jusqu'à la cabane d'Aixeques un peu plus en contrebas. Je commence donc à descendre mais je passe la cabane sans la voir. Heureusement je me rends assez vite compte de mon erreur et retrouve le tracé du GR10. Pas convaincu par la cabane, je décide de pousser jusqu'au refuge suivant. Mais pour l'atteindre il y a une petite montée. On monte raide à travers les genets et sans trop d'ombre.
+
+![](/uploads/1-2.jpg)
+
+Après une heure de montée, on a le droit à un léger replat. Mais je sais qu'il reste encore un bon morceau qui ne tarde pas à arriver. La fin de la montée me parait interminable mais je finis par atteindre le col de la Mitja. Plus qu'à basculer et à descendre sur un sentier en pente douce pendant une petite heure. Je suis bien content d'arriver au refuge sur les coups de 17h. C'est agréable d'avoir un peu de temps de se poser par rapport à hier. Je prends un petit coca pour reprendre un peu d'énergie, et une petite bière pour les courbatures. Il y a pas mal de monde au refuge ou en bivouac autour.
+
+![](/uploads/pano_20220528_193744.jpg)
+
+Bon petit repas, un peu de lecture et je ne tarde quand même pas à aller me coucher.
 
 ### Jour 3: Ras de la Carança - Refuge des Mariailles
+
+Je me réveille sans trop de mal vers 5h40. Je me motive pour partir le plus vite possible. La tente est un peu mouillée de la rosée. Je commence à marcher vers 6h10. Déaprt assez tranquille avec une alternance de montée et de descente; Puis viens le gros morceaux, une belle montée bien raide vers le col de Pal que j'atteins un peu avant 8h. Très belle vue à 360 degrés avec le soleil qui pointe le bout de son nez. 
+
+![](/uploads/gopr0257.JPG)
+
+On continue à flanc de montagne avec quelques névés qui descendent dans la pente (pas ultra serein avec le gros sac). Je continue la descente avec pour objectif de m'arrêter au refuge d'Alemany mais j'ai du rater un panneau et passer à côté sans le voir. C'est dommage parce que je ne suis pas loin d'atteindre la fin de mon stock d'eau.  La descente jusqu'à Mantet est un peu longue. Obligé d'enlever les chaussure pour passer un guet. Il y avait surement une passerelle mais ça fait aussi un bien fou de mettre les pieds dans l'eau fraiche. Je fait le plein d'eau à Mantet et reprends la montée pour atteindre assez rapidement le col de Mantet. De là commence un longue descente  qui longe (ou empreinte par moment) la route. J'aurai bien fait du stop pour m'éviter la descente mais la route n'a pas l'air très fréquentée.
+
+![](/uploads/1-3.jpg)
+
+Je fais un stop à l'épicerie de Py pour quelques courses dont d'excellentes fraises. La reprise après la pause du midi est vraiment dure. J'hésite même à faire demi-tour et retourner à Py parce que c'est pas la grande forme (mais je suis borné). Le topoguide annonce deux heure jusqu'au col de Jou et malgré une allure qui me semble plutôt je l'atteint en une grosse heure. Le refuge des Mariailles est annoncé à deux heures, ça devrait le faire. 
+
+![](/uploads/gopr0266.JPG)
+
+Mais ces deux heures vont être très, très longue. Ça monte très raide et je sens les crampes qui commencent à arriver. Seul point positif le chemin est à l'ombre. Le ciel s'assombrit et je sens quelques gouttes. Mais j'arrive au refuge avant que le ciel ne se déchire vraiment. Cette journée à fait mal , je suis exténué. Comme la pluie ne s'arrête pas et qu'il y a de la place (on est seulement 3), je décide de dormir au refuge. Et puis un bon repas chaud ça requinque.
+
+![](/uploads/gopr0270.JPG)
+
+Mais surtout je profite des très bons conseils du gardien pour l'étape de demain. Deux filles qui font le HRP depuis Banyul viennent d'ailleurs demander des conseils et des infos sur la météo (il y a encore des orages prévus demain). Elles doivent atteindre Bolquères dans deux jours, pas impossible mais ça fait deux bonnes étapes (je le sais j'en viens). Il continuera de pleuvoir une bonne partie de la soirée, content d'être au chaud et au sec.
 
 ### Jour 4: Refuge des Mariailles - Refuge de L'Estanyol
 
