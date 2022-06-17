@@ -2,7 +2,6 @@
 authors = []
 categories = []
 date = 2022-05-25T22:00:00Z
-draft = true
 tags = []
 title = "Pyrénées orientales"
 
@@ -43,7 +42,7 @@ Bon petit repas, un peu de lecture et je ne tarde quand même pas à aller me co
 
 ### Jour 3: Ras de la Carança - Refuge des Mariailles
 
-Je me réveille sans trop de mal vers 5h40. Je me motive pour partir le plus vite possible. La tente est un peu mouillée de la rosée. Je commence à marcher vers 6h10. Déaprt assez tranquille avec une alternance de montée et de descente; Puis viens le gros morceaux, une belle montée bien raide vers le col de Pal que j'atteins un peu avant 8h. Très belle vue à 360 degrés avec le soleil qui pointe le bout de son nez. 
+Je me réveille sans trop de mal vers 5h40. Je me motive pour partir le plus vite possible. La tente est un peu mouillée de la rosée. Je commence à marcher vers 6h10. Déaprt assez tranquille avec une alternance de montée et de descente; Puis viens le gros morceaux, une belle montée bien raide vers le col de Pal que j'atteins un peu avant 8h. Très belle vue à 360 degrés avec le soleil qui pointe le bout de son nez.
 
 ![](/uploads/gopr0257.JPG)
 
@@ -51,7 +50,7 @@ On continue à flanc de montagne avec quelques névés qui descendent dans la pe
 
 ![](/uploads/1-3.jpg)
 
-Je fais un stop à l'épicerie de Py pour quelques courses dont d'excellentes fraises. La reprise après la pause du midi est vraiment dure. J'hésite même à faire demi-tour et retourner à Py parce que c'est pas la grande forme (mais je suis borné). Le topoguide annonce deux heure jusqu'au col de Jou et malgré une allure qui me semble plutôt je l'atteint en une grosse heure. Le refuge des Mariailles est annoncé à deux heures, ça devrait le faire. 
+Je fais un stop à l'épicerie de Py pour quelques courses dont d'excellentes fraises. La reprise après la pause du midi est vraiment dure. J'hésite même à faire demi-tour et retourner à Py parce que c'est pas la grande forme (mais je suis borné). Le topoguide annonce deux heure jusqu'au col de Jou et malgré une allure qui me semble plutôt je l'atteint en une grosse heure. Le refuge des Mariailles est annoncé à deux heures, ça devrait le faire.
 
 ![](/uploads/gopr0266.JPG)
 
@@ -63,6 +62,42 @@ Mais surtout je profite des très bons conseils du gardien pour l'étape de dema
 
 ### Jour 4: Refuge des Mariailles - Refuge de L'Estanyol
 
+La nuit au refuge a fait un bien fou. Je prends le départ vers 6h45, cette journée devrait être plus soft que les précédentes. Sur les conseils du gardien je ne suis pas le GR10 aujourd'hui mais passe plutôt par le Pic du Canigou. C'est plus intéressant et en plus c'est plus court. La montée commence doucement en forêt puis ça se découvre et la pente se durcit. Vers la fin de la montée j'ai le choix entre passer par les crêtes ou monter au pic du Canigou. J'hésite un peu parce que le ciel commencent un peu à se couvrir et il fait frisquet. On ne se décourage pas et on fonce vers le pic. Enfin foncer c'est une façon de parler parce que ça monte sacrément. La fin de l'ascension se rapproche plutôt de l'escalade que de la randonnée (et le gros sac n'arrange pas les choses). Mais l'effort en vaut la peine. La vue en haut est époustouflante, panorama à 360 degrés avec la mer à l'horizon.
+
+![](/uploads/gopr0287_mj632k9e51brr_0_1654861091397.JPG)
+
+Heureusement la descente est beaucoup plus douce que la montée. Sur le chemin il y a un groupe de bouquetin qui fait tranquillement ça vie mais qui déguerpira très rapidement une fois qu'il m'ont vu. J'ai vite le refuge des Cortalets en vue. Un peu distrait par l'idée d'êter déjà arrivé, je fais un faux pas et me retrouve les quatre fers en l'air. Plus de peur que de mal mais restons concentré. Les alentours du refuge sont très agréables. Endroit parfait pour bivouaquer mais on ne s'arrête pas là, enfin si mais juste pour casser la croute.
+
+![](/uploads/gopr0290.JPG)
+
+La descente continue sur un gros sentier, un peu monotone mais agréable. Puis on continue en balcon avec une jolie vue sur la vallée. J'avance bien mais je manque de me faire la cheville plusieurs fois. La fatigue ?
+
+![](/uploads/1-4.jpg)
+
+J'arrive plutôt rapidement à l'abri du Pinatell (cabane non gardée) et y fait une petite pause lecture. Absordé par le roman je ne fais pas attention au ciel qui commence à s'assombrir. Je reprends donc la route, il commence à pleuvoir légèrement mais je suis à l'abri dans la forêt. J'entends l'orage au loin et suis bien content de savoir que le prochain refuge n'est pas très loin. Je n'avais pas forcer prévu de m'arrêter au refuge de l'Estanyol mais l'orage approchant permet d'éviter toute tergiversation, je m'arrête là. Par beau temps j'aurai surement hésiter à continuer mais vu ce qu'il tombera par la suite je ne regrette pas mon choix.
+
+![](/uploads/gopr0303.JPG)
+
+Commence une longue après-midi pluvieuse, seul dans le refuge (non gardé). Heureusement j'ai un livre pour faire passer le temps. Dehors l'orange gronde et la pluie continue de tomber abondamment. Je fais un petit feu dans la cheminée du refuge, la chaleur est plus qu'agréable. Après un bon repas chaud je ne tarde pas à trouver le sommeil.
+
 ### Jour 5: Refuge de L'Estanyol - Arles-sur-Tech
 
+Bonne nuit de sommeil. Je me réveille sur les coups de 6h et commence à marcher vers 7h. Le chemin monte doucement dans les pins avec quelques passages un peu plus raides. J'arrive assez vite au col de la Cirère où le vent souffle très fort. Je me cale en cotnrebas pour faire une pause lecture. On est pas pressé l'étape d'aujourd'hui est courte. On repart pour une descente douce et rapide vers le refuge de Batère. Je prends un café au refuge et discute avec les gérants (des jeunes qui ont repris le refuge il y a quelques années). 
+
+![](/uploads/pano_20220531_091430.jpg)
+
+S'en suit une longue descente vers Arles-sur-Tech. Le paysage change un peu de ce que j'ai vu jusqu'ici avec un terrain plus sec et une végétation plus provençale. Il fait très chaud et je ne croise pas de source d'eau sur le parcours. Heureusement, je ne tarde pas à arrive à Arles (vers 12h30). 
+
+![](/uploads/gopr0318.JPG)
+
+Je mange un morceau dans un des restaurant du village puis je me dirige vers le camping. L'accueil est fermé en début d'après-midi. Ça me permet de lire un peu (il est vraiment bien ce livre). J'installe mon campement pour deux jours. Après-midi chill au camping et petite balade dans Arles.
+
 ### Jour 6: Pilo de Belmaig
+
+Aujourd'hui on vide le sac pour faire une petite randonnée dans les alentours d'Arles avec pour objectifs le pilo de Belmaig. Je pars un peu avant 8h et passe faire quelque course au Spar pour le repas de ce midi.  Ça fait plaisir de manger un peu de fruits frais. Je prends la direction du GRP Ronde du Canigo. La montée est assez raide mais à l'ombre. Je ne suis pas mécontent de pas avoir un gros sac à porter. J'arrive au pilo de Belmaig sans trop me pressé vers 10h45. La vue panoramique y est magnifique. Je prends le temps de profiter de la vue et mange au sommet.
+
+![](/uploads/1-5.jpg)
+
+Le ciel est dégagé et le soleil commence à taper sérieusement. Alors j'amorce la descente en passant par un chemin différent de l'aller (par le GR10) mais somme toute assez similaire. Il fait très chaud et je ne croise pas de point d'eau dans la descente. Je suis pas loin de manquer d'eau. Le boucle est bouclée et je retourne me poser au camping. Demain on prends la navette direction  Perpignan pour quitter le GR10. 
+
+On reviendra surêment plus tard pour crapahuter sur d'autres sections de la traversée des Pyrénées.
