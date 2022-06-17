@@ -100,4 +100,4 @@ Aujourd'hui on vide le sac pour faire une petite randonnée dans les alentours d
 
 Le ciel est dégagé et le soleil commence à taper sérieusement. Alors j'amorce la descente en passant par un chemin différent de l'aller (par le GR10) mais somme toute assez similaire. Il fait très chaud et je ne croise pas de point d'eau dans la descente. Je suis pas loin de manquer d'eau. Le boucle est bouclée et je retourne me poser au camping. Demain on prends la navette direction  Perpignan pour quitter le GR10. 
 
-On reviendra surêment plus tard pour crapahuter sur d'autres sections de la traversée des Pyrénées.
+On reviendra sûrement plus tard pour crapahuter sur d'autres sections de la traversée des Pyrénées.
