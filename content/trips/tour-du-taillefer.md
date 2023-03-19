@@ -1,3 +1,7 @@
+---
+_template: trip_template
+---
+
 +++
 authors = []
 categories = []
