@@ -25,60 +25,31 @@ export default defineConfig({
         path: "content/trips",
         fields: [
           {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          {
             type: "datetime",
             name: "date",
             label: "date",
           },
-          {
+		  {
             type: "string",
             name: "title",
             label: "title",
           },
           {
-            type: "string",
-            name: "tags",
-            label: "tags",
-            list: true,
-          },
-          {
-            type: "string",
-            name: "categories",
-            label: "categories",
-            list: true,
-          },
-          {
-            type: "string",
-            name: "authors",
-            label: "authors",
-            list: true,
-          },
-        ],
-      },
-      {
-        label: "Posts",
-        name: "posts",
-        path: "content/posts",
-        fields: [
-          {
             type: "rich-text",
             name: "body",
             label: "Body of Document",
             description: "This is the markdown body",
             isBody: true,
           },
+
+
+
         ],
       },
       {
-        label: "Blog",
-        name: "blog",
-        path: "content/blog",
+        label: "Projects",
+        name: "projects",
+        path: "content/projects",
         fields: [
           {
             type: "rich-text",

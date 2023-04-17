@@ -1,18 +1,11 @@
 ---
-_template: trip_template
+date: '2019-06-10T22:00:00.000Z'
+title: Tour de la vallée du Munster
 ---
 
-+++
-authors = []
-categories = []
-date = 2019-06-11T22:00:00Z
-tags = []
-title = "Tour de la Vallée de Munster"
-
-+++
 J'avais prévu cette randonnée dans les Vosges lors de l'un des grands ponts de mai mais le temps catastrophique et les température glaciale de l'époque m'avaient poussé a renoncer. Au pont de l'ascension cette fois les conditions s'annoncent parfaites, ciel ensoleillé et temperature adaptée au bivouac. En partant je ne suis pas encore tout a fait fixé sur l'itinéraire que je vais emprunter. J'ai étudié plusieurs options de circuit de trois etapes (sur le papier). Comme il faut bien partir de quelque part, je porte mon choix sur le tour de la vallée de Munster.
 
-##  Hohneck
+## Hohneck
 
 Je pars donc jeudi matin en direction de Munster ou j'arrive un peu avant 13h. Alors que je vais pour finaliser mon sac je remarque qu'il y a de l'eau partout, ma poche a eau s'est vidée de tout son contenu pendant le trajet en voiture. La plupart de l'eau a été absorbée par ma serviette (pas grave), mon livre (adieu la lecture), et mon rouleau de PQ (mais je ne m'en apercoit pas). Je met le sac sur le dos et commence a marcher dans Munster. Les difficultés ne se font pas attendre. Avant meme d'avoir rejoint le départ prévu de la randonnée la route s'éleve. Une fois dans la foret le chemin commence par suivre le balisage du club vosgien. Ensuite la trace gps que je suis s'écarte ne suit plus le balisage et je fais quelques petites erreurs de parcours. Le chemin continue de monter en pente douce, malgré le ciel couvert et l'abri des arbres il fait quand meme bien chaud. Apres presque deux heures de marche mes reserve d'eau ont déja diminué drastiquement et pas une trace de source. Heureusement quelque temps apres j'apercois une fontaine dans le jardin d'un chalet. Comme celui-ci a l'air vide je me permet de me servir a la fontaine. La vue se dégage sur la gauche et laisse apparaitre la vallée.
 
@@ -22,7 +15,7 @@ Le parcours continue sur les cretes. Je me trompe et coupe a travers pour retrou
 
 Pendant quelques kilomètre le relief environant n'est pas très favorable au bivouac et certaines zones sont protégé (et donc interdite). Il est 18hy passé, il va quand même être temps de trouver un endroit où poser la tente. Au loin j'aperçois un groupe de tente déjà installée. Effectivement il y a un gros groupe (avec des enfants) qui s'est installé près d'un abri. Je continue encore un peu pour trouver un coin un peu plus isolé. Un peu plus loin il y a un bout de prairie bien à plat mais il y a déjà des randonneurs installés. J'avance encore un peu et trouve un endroit à peu près plat derrière un bosquet. Plus tard le gros groupe que j'ai dépassé plus tôt déplace ces tentes juste à coté de moi, il ne devaient pas avoir le droit de s'intaller à l'endroit précedent. La soirée sera un peu moins calme que prévue. malgré le ciel couvert on a le droit à un jolie couché de soleil.
 
-##  Grand Ballon
+## Grand Ballon
 
 Je me réveille un peu avant 7h. La nuit a été plutôt bonne. Quelqueq gateaux et un café avalés et c'est reparti. Le ciel est encore couvert mais commence doucement à se dégager. La monagne est encore calme, seulemnt perturbée par le son des cloches au cou des vaches.
 
@@ -38,7 +31,7 @@ Après une petite pause au lac de la Lauch, il faut reprendre le denivelé que l
 
 Je fais une longue pause au niveau du col et hésite même à y poser mon bivouac. Le spot est vraiment idéal: herbe, à plat, vue magnifique, à l'abri des arbres. Mais l'affluence de radonneurs et l'heure encore précose m'insite à repartir. A cette période de l'année le chemin qui mène au sommet du Klizkopf est interdit d'accès pour protéger la faune (période de reproduction). Mais ce n'est pas très grave car il y a un itinéraire alterntif qui passe légèrement plus bas. D'ailleur le bivouac aussi est interdit dans cette zone (réserve biologique de Guebwiller) je ne peut donc pas m'arrêter ou je veux. Il y a un abri au nivveau du col du Lauchen mais l'endroit ne donne pas envie de s'y installer. Je continue encore un peu. Je jette mon dévolu sur un bout de prairie presque plat non loin du Hilsenfirst. Ca fait du bien de poser, la fatigue commençant quand même à se faire sentir après cette grosse journée de marche. J'ai une vue imprenable sur le Grand ballon à droite, le Petit Ballon à gauche et la plaine d'Alsace en face.
 
-##  Petit Ballon
+## Petit Ballon
 
 Cette nuit a été agitée. Vers 2h du matin je suis réveillé par le cri d'un animal non identifié (un renard peut-être). Je sors de ma tente pour voir et même si il ne semble pas loin au son je ne vois absolument rien. La température extérieur est étonnament agréable et le ciel étoilé est magnifique malgré la pollution lumioneuse des villes en contrebas. Je reste quelque minutes à adminer la voute céleste. Il fait bon mais pas assez pour rester dehors en caleçon. Je rentre à l'abri dans mon sac de couchage. A peine couché qu'un autre son vient perturbé mon sommeil mais cette fois-ci ce n'est pas un animal mais de la musique. Cela semble venir de loin mais je ne saurais dire d'ou exactement. Moi qui pensais être tranquille au milieu de la nature. Je finis par retomber dans les bras de Morphée et m'en échappe à l'aube.
 
