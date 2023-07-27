@@ -1,7 +1,12 @@
----
-date: '2016-05-30T22:00:00.000Z'
-title: Corse GR20
----
++++
+authors = []
+categories = []
+date = 2016-05-30T22:00:00.000Z
+tags = []
+title = "Corse GR20"
+
++++
+
 
 ## Paris - Calvi - Calenzana
 
