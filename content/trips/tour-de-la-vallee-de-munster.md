@@ -1,8 +1,10 @@
 +++
 date = 2019-06-10T22:00:00.000Z
 title = "Tour de la vallée du Munster"
-
+_template = "trip_template"
 +++
+
+
 
 J'avais prévu cette randonnée dans les Vosges lors de l'un des grands ponts de mai mais le temps catastrophique et les température glaciale de l'époque m'avaient poussé a renoncer. Au pont de l'ascension cette fois les conditions s'annoncent parfaites, ciel ensoleillé et temperature adaptée au bivouac. En partant je ne suis pas encore tout a fait fixé sur l'itinéraire que je vais emprunter. J'ai étudié plusieurs options de circuit de trois etapes (sur le papier). Comme il faut bien partir de quelque part, je porte mon choix sur le tour de la vallée de Munster.
 

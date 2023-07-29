@@ -1,11 +1,13 @@
 +++
-authors = []
-categories = []
+authors = [ ]
+categories = [ ]
 date = 2016-05-30T22:00:00.000Z
-tags = []
+tags = [ ]
 title = "Corse GR20"
-
+_template = "trip_template"
 +++
+
+
 
 
 ## Paris - Calvi - Calenzana

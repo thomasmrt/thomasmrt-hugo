@@ -1,11 +1,13 @@
 +++
-authors = []
-categories = []
-date = 2018-07-12T22:00:00Z
-tags = []
+authors = [ ]
+categories = [ ]
+date = 2018-07-12T22:00:00.000Z
+tags = [ ]
 title = "Tour du Queyras "
-
+_template = "trip_template"
 +++
+
+
 Après la Norvège, on revient dans l'Hexagone pour 8 jours de radonnée dans le Queyras. L'objectif initial était de faire 10 jours en combinant le tour du Queyras avec le tour du Viso mais on a du revoir notre itinéraire à cause des conditions d'enneigement défavorables. Au final on a fait le Tour du Queyras en 7 jours et une radonnée sans sacs à la fin pour cloturer nos vacances.
 
 Après un week-end à Nice je rejoins Antoine à la gare de Lyon Part-Dieu puis on continue le trajet en voiture. Première petite péripétie pendant le trajet, on ne fait pas attentionau trajet que nous propose le GPS et on se retrouve à passer par le tunnel de Fréjus, 44€ bêtement dépensés. Nous voila donc en Italie. Deuxième déconvenue, après avoir passé la frontière on se rends compte qu'on est limite niveau carburant et on est pas sur de pouvoir aller jusqu'à la prochaine station service. on fait donc demi-tour car il y a une pompe à essence plus proche. Réservoir rempli, on peut repartir. Comme on est quand même un peu à l'arrache niveau organisation on se rend seulement compte qu'à l'heure ou l'on va arriver tout sera fermé, que se soit les restaurant ou le camping. On s'arrête donc pour manger à Briançon. Estomac rempli, on peut repartir. 

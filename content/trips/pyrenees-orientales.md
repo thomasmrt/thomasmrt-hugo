@@ -1,3 +1,8 @@
++++
+_template = "trip_template"
++++
+
+
 ---
 _template: trip_template
 ---
