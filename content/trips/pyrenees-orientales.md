@@ -1,13 +1,4 @@
 +++
-_template = "trip_template"
-+++
-
-
----
-_template: trip_template
----
-
-+++
 authors = []
 categories = []
 date = 2022-05-25T22:00:00Z
@@ -15,6 +6,7 @@ tags = []
 title = "Pyrénées orientales"
 
 +++
+
 ### Jour 1: Mérens-les-Vals - Lac des Bouillouses
 
 Le train nous déposé dans le petit village de Mérens-les-Vals point de départ de la partie orientale du GR10 un peu après 10h. Il y a quelques autres randonneurs mais je me retrouve assez vite seul. Le soleil est déjà bien présent et je ne tarde pas à tomber le pantalon et la veste, mais sans penser à mettre de la crème solaire. Le moi de ce soir pourrait m'en vouloir. Ça monte tranquillement mais sûrement. En arrivant à la porteille de Bésignes quelques névés persistent. Heureusement je suis bien équipé..  ah non je suis parti en chaussures de trail😅. Ça passe quand même.
