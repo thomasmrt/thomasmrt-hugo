@@ -32,6 +32,11 @@ export default defineConfig({
             name: "title",
             label: "title",
           },
+		  {
+            type: "string",
+            name: "youtube",
+            label: "youtube",
+          },
           {
             type: "rich-text",
             name: "body",
