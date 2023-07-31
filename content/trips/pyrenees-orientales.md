@@ -1,10 +1,10 @@
 +++
-authors = []
-categories = []
-date = 2022-05-25T22:00:00Z
-tags = []
+authors = [ ]
+categories = [ ]
+date = 2022-05-25T22:00:00.000Z
+tags = [ ]
 title = "Pyrénées orientales"
-
+youtube = "8idTBf5p1V0 "
 +++
 
 ### Jour 1: Mérens-les-Vals - Lac des Bouillouses
@@ -83,11 +83,11 @@ Commence une longue après-midi pluvieuse, seul dans le refuge (non gardé). Heu
 
 ### Jour 5: Refuge de L'Estanyol - Arles-sur-Tech
 
-Bonne nuit de sommeil. Je me réveille sur les coups de 6h et commence à marcher vers 7h. Le chemin monte doucement dans les pins avec quelques passages un peu plus raides. J'arrive assez vite au col de la Cirère où le vent souffle très fort. Je me cale en cotnrebas pour faire une pause lecture. On est pas pressé l'étape d'aujourd'hui est courte. On repart pour une descente douce et rapide vers le refuge de Batère. Je prends un café au refuge et discute avec les gérants (des jeunes qui ont repris le refuge il y a quelques années). 
+Bonne nuit de sommeil. Je me réveille sur les coups de 6h et commence à marcher vers 7h. Le chemin monte doucement dans les pins avec quelques passages un peu plus raides. J'arrive assez vite au col de la Cirère où le vent souffle très fort. Je me cale en cotnrebas pour faire une pause lecture. On est pas pressé l'étape d'aujourd'hui est courte. On repart pour une descente douce et rapide vers le refuge de Batère. Je prends un café au refuge et discute avec les gérants (des jeunes qui ont repris le refuge il y a quelques années).
 
 ![](/uploads/pano_20220531_091430.jpg)
 
-S'en suit une longue descente vers Arles-sur-Tech. Le paysage change un peu de ce que j'ai vu jusqu'ici avec un terrain plus sec et une végétation plus provençale. Il fait très chaud et je ne croise pas de source d'eau sur le parcours. Heureusement, je ne tarde pas à arrive à Arles (vers 12h30). 
+S'en suit une longue descente vers Arles-sur-Tech. Le paysage change un peu de ce que j'ai vu jusqu'ici avec un terrain plus sec et une végétation plus provençale. Il fait très chaud et je ne croise pas de source d'eau sur le parcours. Heureusement, je ne tarde pas à arrive à Arles (vers 12h30).
 
 ![](/uploads/gopr0318.JPG)
 
@@ -99,6 +99,6 @@ Aujourd'hui on vide le sac pour faire une petite randonnée dans les alentours d
 
 ![](/uploads/1-5.jpg)
 
-Le ciel est dégagé et le soleil commence à taper sérieusement. Alors j'amorce la descente en passant par un chemin différent de l'aller (par le GR10) mais somme toute assez similaire. Il fait très chaud et je ne croise pas de point d'eau dans la descente. Je suis pas loin de manquer d'eau. Le boucle est bouclée et je retourne me poser au camping. Demain on prends la navette direction  Perpignan pour quitter le GR10. 
+Le ciel est dégagé et le soleil commence à taper sérieusement. Alors j'amorce la descente en passant par un chemin différent de l'aller (par le GR10) mais somme toute assez similaire. Il fait très chaud et je ne croise pas de point d'eau dans la descente. Je suis pas loin de manquer d'eau. Le boucle est bouclée et je retourne me poser au camping. Demain on prends la navette direction  Perpignan pour quitter le GR10.
 
 On reviendra sûrement plus tard pour crapahuter sur d'autres sections de la traversée des Pyrénées.

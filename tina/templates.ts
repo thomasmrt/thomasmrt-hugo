@@ -64,6 +64,11 @@ export function trip_templateFields() {
     },
     {
       type: "string",
+      name: "youtube",
+      label: "youtube",
+    },
+    {
+      type: "string",
       name: "tags",
       label: "tags",
       list: true,
