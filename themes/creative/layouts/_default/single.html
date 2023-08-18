@@ -1,0 +1,35 @@
+
+
+{{ define "main" }}
+
+
+
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+{{ range .Site.Params.navlinks }}
+        <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
+      {{ end }}
+
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+  <div class="col-lg-2">
+  </div>
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>{{ .Title }}  </h1> 
+		 
+		 	{{ if .Params.youtube }}
+			{{ $start := 0 }}
+			{{ $title := "YouTube Video" }}
+			<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube-nocookie.com/embed/{{ .Params.youtube }}?rel=0&start={{ $start }}"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
+          allowfullscreen="" title="{{ $title }}"></iframe>
+</div>
+		{{ end }}
+         {{ .Content }}
+         {{ template "_internal/disqus.html" . }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
