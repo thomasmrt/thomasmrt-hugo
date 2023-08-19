@@ -4,7 +4,7 @@ categories = [ ]
 date = 2016-05-30T22:00:00.000Z
 tags = [ ]
 title = "Corse (GR20)"
-image = "https://lh3.googleusercontent.com/pw/ACtC-3ccQRzUUi3mXWDcsp6YF482wY7CyPE3d64AzLmSKVcEJediT7RBht1KD37Q4smBb_5rNVMZFxjg0EDyGAAHHHe1vQOv8NsgAEcJKFlxpCQ_IRHgA_tYAGFw1QOKuX4tFq5doDEmPOp1HAyueGf-dMAy7w=w1244-h939-no?authuser=0"
+image = "uploads/corse/IMG_20160911_192932.jpg"
 showonlyimage = false
 weight = 1
 description= "Le célèbre GR20"
