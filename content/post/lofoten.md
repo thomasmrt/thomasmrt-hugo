@@ -3,7 +3,7 @@
 +++
 date = 2017-07-13T22:00:00Z
 title = "Grande traversée des Lofoten"
-image="https://lh3.googleusercontent.com/pw/AIL4fc-FZxm8_zSHZbKZwUFfowwkLVEjCxIc_MyAtwWYbm_QuNeygz74-SlQmuu365bEp41-Q-tNI9TYZKVorizThKsXYBWjMg302LSMZyku1O_BMxsZvyJwSxfqIQ3OoKK-qU0ufe8tEJH5ZIqfgochyWsLxA=w1273-h955-s-no?authuser=0"
+image="uploads/lofoten.jpg"
 +++
 
 ## Paris - Oslo - Bodo - Svolvaer

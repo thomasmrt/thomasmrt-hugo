@@ -4,7 +4,7 @@ categories = [ ]
 date = 2018-07-12T22:00:00.000Z
 tags = [ ]
 title = "Tour du Queyras "
-image="https://lh3.googleusercontent.com/pw/AIL4fc9aWTjEMIjUJ4D8JwnOWlfEcD_t8zPqHMhvxbhwy4nR1lmX4f2LRYtgA7MJswvwK127yFVPij7YzQkSDx40aKjs3V6A9_Dj7IolZkevAk1ExWQSfCh-4p_080zV_PsHZPZWpKz8WZOdfF6grjnw9YYYCA=w1273-h955-s-no?authuser=0"
+image="uploads/queyras.jpg"
 +++
 
 

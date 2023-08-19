@@ -2,7 +2,7 @@
 +++
 date = 2020-07-16T22:00:00Z
 title = "Les Vosges avec des belges !"
-image="https://lh3.googleusercontent.com/pw/AIL4fc8-8MBi7ZhqDD7xsDcw7YWyossviWP9e2kpJyVIUyOrrD1sZioob3JGo9p-7xtKky27y1uzjen0GlcHClXrMxNZjIT_7Aas_pMqVThp3FcZWpb71EhaG77zE7zN-G06VZP63T2pAE3-h8feHxnjeY0GiA=w1273-h955-s-no?authuser=0"
+image="uploads/vosges-belges.jpg"
 +++
 
 

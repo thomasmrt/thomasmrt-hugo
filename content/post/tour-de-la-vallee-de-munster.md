@@ -1,7 +1,7 @@
 +++
 date = 2019-06-10T22:00:00.000Z
 title = "Tour de la vallée du Munster"
-image="https://lh3.googleusercontent.com/pw/AIL4fc_sRHHpZa9Otyn3ExDNIlVQ7GqRj0cq7HaD05vKjQHF6cMRWuNxrBqZh96syO1c7F4rwrtgk3uL07w9ytCwT9DXNw_Qqmeei2Y6AOaEdRrlFrVFTL66Eg0V3weX6kLyyn59KJ45q46Gc13PImbNX3j_Yg=w1273-h955-s-no?authuser=0"
+image="uploads/munster.jpg"
 +++
 
 
