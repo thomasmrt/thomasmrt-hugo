@@ -5,7 +5,7 @@ showonlyimage = false
 image = "uploads/pyrennes-ariegeoises.JPG"
 date = 2023-08-05T22:00:00.000Z
 description="On continue notre périple sur le GR10"
-title = "Pyrénées ariègeoises"
+title = "Pyrénées ariègeoises (GR10)"
 draft = false
 youtube = "45YFrVf6Q5c"
 +++

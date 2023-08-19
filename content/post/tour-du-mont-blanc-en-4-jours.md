@@ -4,7 +4,7 @@ categories = []
 date = 2021-08-16T22:00:00Z
 tags = []
 title = "Tour du Mont-Blanc (en 4 jours)"
-image="https://lh3.googleusercontent.com/pw/AIL4fc9XgZqhB2dEJ1vAEow3xJhLNyPQ_hi6jX6aHjnWE51vz079x33xCPGlkybtzR1z5QV6FJ0sZcKzxCuxxWHqN7Lbpl0u-QGsV5h6XmUuVA7CtZ7DUJw3ZnHloX0HPuThWhcBxAULStwXLFgScisxpCNgpQ=w1273-h955-s-no?authuser=0"
+image="uploads/tmb.jpg"
 +++
 Cette année on part pour le Tour du Mont-Blanc (170km et 10000m de D+). Mais contrairement à d'habitude on part avec quasiment rien sur le dos. La raison étant qu'on compte faire le périple en 4 petits jours. Ça risque d'être sportif !
 
