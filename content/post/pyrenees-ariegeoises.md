@@ -19,9 +19,20 @@ J'ai eu un peu de mal à m'endomrmir la veille du départ. J'ai longtemps hésit
 
 ## Aulus-les-Bains ► Refuge de Bassiès
 
+Les montagnes s'élèvent directement après le village. J'ai un peu de la à trouver la trace du GR, comme c'est toujours un peu le cas. Je finis par la repérer et commencer à suivre le sentier. Maisau bout d'un moment je me rends compte que je ne vais pas dans la bonne direction. Je dirais pas que je me suis perdu, je dirai que j'ai opas pris le bon chemin. Je bifurque pour rattraper la bonne route et ça grimpe assez sec. Cela aurait été surement plus doux par le bon chemin. On  monte assez raide dans la forêt et le sol est assez humide avec quelques passages boueux (il a beaucoup plu ces derniers temps). La pente s'adoucit en arrivant à Coumebière où beaucoup de voitures sont garées, il doit y avoir un départ de rando. Et effectivement à partir de là je croise beacoup plus de monde sur les sentiers. On quitte la forêt mais ça continue de monter. J'aperçois le col plus haut. C'est en fait le port de Saleix et contrrairrementtt à ce que je pensais il faut encore monter jusqu'au col de Bassiès. Le chemin continue dans un pierrier jusqu'au col. La vue qui s'ouvre sur le lac est splendide.
 
-## Refuge de Bassiès ► Cabane des Grandes Cambousses
+![](blob:https://plus.gopro.com/e9bc20c5-d6a0-4553-8aae-04cb7f57f975 "")
+
+Puis le refuge se montre en contrebas. La descente est assez technique mais pas très longue. J'arrive au refuge aux alentours de17h, il y a beaucoup de monde et il semblerait qu'il y ait un ultra qui passe par là dans la soirée; Je m'installe tranquillement sur l'aire de bivouac puis profite un peu de la chaleur à l'intérieur de la salle commune avant le repas. Dehors c'est nuageux et le vent se lève.  Je ne tarde pas trop pour prendre min repas; Une rapide toilette et dodo. 
+
+![](https://lh3.googleusercontent.com/pw/AIL4fc9g7kUXKXuaiHZa7KDSXWkOQg3Om_4aHaJO8c2WMHdHJ1026G-b6_TfGreEB7wpxXamULgrxzVJJyQQv9vEWb5zGB0Kr6nbK2vwjAJ0NJkl1l2_MRWNkTp3IBsJM9pj0zwQLLMjfxTyCRy8u9Tbj-iUFEV8Uvriu7EFXlOqmROlLnnE14QieKI6hFEXgs1AuTaET4g9UtJMzLq-NcfhxrgevjvCh5OMNaFC5oONoJdcVOMP2oY1zbkzHDu-sDEHHL_w4KhpjjWH-etMoAfmFLt_TJL-rDxIjVv9MBmkFyljx1eBkm8jWeA0AiwYe_xTtY1J6Cxx4vR27ixpRxzis3sl4hDnCoSRa_J5p69Z_Ar4uUslSgw71RufJ5e30PssHwXsrRN9VY2kc4e8UwQXGgscPNXzXRBS5-bjD3VSFnOP0QJth15wjmbQUBhS0ZVp8FMUjc4sz4lWpSuoXI_C9aPIIa8Ed-Gf0WUHKo6MGso_I5hZBFrzOEFg6l6AMwvRaXn3oCPi4NBVn6pM-cvh5okzjvD3bbi-MN4XPg9Fspbn2erxNrKl9Misn9cSFc86dRcTp9UjqJUJYjkhDgLvyjHjFQ-5vJ7YZ5ta6bH54ssVal1E2AZmt8ZQFtNgdUvVy9kRcLlUudOhc0D2j7JuPeUBT2iePEboK2IDQZA26OTg0LRYZUAszQuFzxsryMynXv-UWOoIm5W2S6n6RvdEsfLCBsEmO5hOGQTLQjlvsJbtKU0hs-yH0-P2gHvik5V4SCf7FLBw-HLaWvXyE0iWHk6T7VIh9sU7vtUHh6BMv_vpzqBgTZ8TXDgteotKqMUJCdKicjsGFPWG4BFLtbRRCHH8by0gNcOX7ddcOAJxPMUO1IywcdTQtbj9Z9Cz2gcjquTm7Zl3fVJVGCifTTlmp3REfeM=w427-h321-no?authuser=0 "")
 
 
+## Refuge de Bassiès ► Coumasses Grandes
 
+## Coumasses Grandes ► Courtal-Marty
+
+## Courtal-Marty ► Plateau de Beille
+
+## Plateau de Beille ► Merens-les-Vals
 
