@@ -10,6 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
+  avatarURL = "images/avatar.jpg"
   style = "default"
   description = "Describe your website"
   copyright = ""
@@ -47,11 +48,25 @@ googleAnalytics = ""
   home = true
 
 
+[[params.social]]
+    name = "Instagram"
+    icon = "fa fa-instagram"
+    weight = 1
+    url = ""  
+  
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 3
+    url = "https://github.com/thomasmrt"
 
-  [params.social]
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  youtube       = "full profile url in youtube"
+[[params.social]]
+    name = "Strava"
+    icon = "fab fa-strava"
+    weight = 2
+    url = "https://www.strava.com/athletes/5070956"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/johndoe/"
