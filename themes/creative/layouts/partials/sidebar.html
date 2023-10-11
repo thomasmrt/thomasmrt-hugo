@@ -1,6 +1,12 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
-  <div class="about">
+  <div class="about" style="text-align: center">
+  
+
+  <a href="{{ .Site.BaseURL }}" data-animate-hover="pulse" class="email" title="E-mail">
+   
+ 
+
     {{ if and (isset .Site.Params "avatarurl") (not (isset .Site.Params "gravatar")) }}
       {{ with .Site.Params.avatarURL }}
         <div class="avatar"><img src={{"images/avatar.png" | relURL }} alt="avatar"></div>
@@ -9,26 +15,14 @@
     {{ with .Site.Params.gravatar }}
       <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="gravatar"></div>
     {{ end }}
+	
+	 </a>
     <h1>{{ .Site.Params.author }}</h1>
     <h2>{{ .Site.Params.info }}</h2>
-    {{ with .Site.Params.social }}
-    <ul>
-      {{ range sort . "weight" }}
-        {{ if .icon }}
-          <li>
+	
+	{{ partial "social_buttons_in_sidebar.html" . }}
 
-            <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }} {{ if .type }}type="{{ .type }}"{{ end }}>
-              <i class="{{ .icon }}" aria-hidden="true"></i>
-            </a>
-          </li>
-        {{ else }}
-          <li>
-            <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>{{ .name }}</a>
-          </li>
-        {{ end }}
-      {{ end }}
-    </ul>
-    {{ end }}
+	
   </div>
   </div>
 </div>

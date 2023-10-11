@@ -6,9 +6,7 @@
 </div>
 
 <div class="col-xs-12 col-sm-8 col-md-8 content-column white-background">
-{{ range .Site.Params.navlinks }}
-        <a href="{{ absURL .url }}">{{ .name }}</a>
-      {{ end }}
+
 
   {{ partial "mobile_nav_toggle.html" . }}
   <div class="row">
