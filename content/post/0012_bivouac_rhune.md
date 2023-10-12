@@ -1,6 +1,6 @@
 +++
 authors = [ ]
-categories = [ ]
+categories = ["GR10", "Bivouac" ]
 showonlyimage = false
 image = "uploads/rhune.jpg"
 date = 2023-09-09T22:00:00.000Z

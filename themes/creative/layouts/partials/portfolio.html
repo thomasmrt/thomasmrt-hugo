@@ -1,3 +1,6 @@
+{{ $mymonths := index $.Site.Data.mois }}{{ .Date.Day }}
+
+
 <div class="col-xs-8 col-sm-8 col-md-8 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
@@ -14,6 +17,24 @@
                             <img src="{{.Params.image | relURL}}" alt="" class="img-responsive">
                         </a>
                       {{ end }}
+					  
+						  <div class="post_meta">
+							
+							<i class="fa fa-calendar"></i>
+						
+							<span class="post_date">{{ index $mymonths (printf "%d" .Date.Month) }} {{ .Date.Year }} </span>
+							
+							
+							<span>
+							{{- range .Params.categories -}}
+							<a href="https://neonmirrors.net/tags/k8s/" title="k8s" class="post_tag button button_translucent"> {{ . }}</a>
+							{{ end }}
+							
+							</span>
+							
+						  </div>
+					  
+					  
                       {{ if eq .Params.showonlyimage true }}
                       <div class="box-masonry-hover-text-header">
                       {{ else }}
@@ -28,7 +49,10 @@
                             </p> -->
                           </div>
                       </div>
-                  </div>
+					  
+
+					  </div>
+
               </div>
           {{ end }}
         </div>
