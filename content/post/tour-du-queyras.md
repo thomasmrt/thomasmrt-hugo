@@ -1,6 +1,6 @@
 +++
 authors = [ ]
-categories = [ ]
+categories = ["Alpes", "Trek" ]
 date = 2018-07-12T22:00:00.000Z
 tags = [ ]
 title = "Tour du Queyras "

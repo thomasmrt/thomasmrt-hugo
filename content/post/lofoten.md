@@ -2,6 +2,7 @@
 
 +++
 date = 2017-07-13T22:00:00Z
+categories = ["World", "Trek" ]
 title = "Grande traversée des Lofoten"
 image="uploads/lofoten.jpg"
 +++

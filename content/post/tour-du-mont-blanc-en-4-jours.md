@@ -1,6 +1,6 @@
 +++
 authors = []
-categories = []
+categories = ["Alpes", "Trek" ]
 date = 2021-08-16T22:00:00Z
 tags = []
 title = "Tour du Mont-Blanc (en 4 jours)"

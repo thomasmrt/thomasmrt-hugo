@@ -1,4 +1,5 @@
 +++
+categories = ["Alpes", "Trek" ]
 date = 2019-09-29T22:00:00.000Z
 title = "Tour du Taillefer"
 image="uploads/taillefer.jpg"

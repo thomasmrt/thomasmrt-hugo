@@ -1,4 +1,5 @@
 +++
+categories = ["GVosges", "Trek" ]
 date = 2019-06-10T22:00:00.000Z
 title = "Tour de la vallée du Munster"
 image="uploads/munster.jpg"

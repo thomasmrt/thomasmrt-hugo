@@ -1,5 +1,6 @@
 
 +++
+categories = ["Vosges", "Trek" ]
 date = 2020-07-16T22:00:00Z
 title = "Les Vosges avec des belges !"
 image="uploads/vosges-belges.jpg"

@@ -1,4 +1,3 @@
-{{ $mymonths := index $.Site.Data.mois }}{{ .Date.Day }}
 
 
 <div class="col-xs-8 col-sm-8 col-md-8 content-column">
@@ -21,7 +20,7 @@
 						  <div class="post_meta">
 							
 							<i class="fa fa-calendar"></i>
-						
+						{{ $mymonths := index $.Site.Data.mois }}
 							<span class="post_date">{{ index $mymonths (printf "%d" .Date.Month) }} {{ .Date.Year }} </span>
 							
 							

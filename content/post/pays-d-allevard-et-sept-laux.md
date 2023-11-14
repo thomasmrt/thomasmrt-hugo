@@ -1,6 +1,7 @@
 +++
 
 date = 2019-07-31T22:00:00Z
+categories = ["Alpes", "Trek" ]
 title = "Pays d'Allevard et Sept Laux "
 image="uploads/belledonne.jpg"
 +++

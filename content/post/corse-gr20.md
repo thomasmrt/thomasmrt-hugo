@@ -1,6 +1,6 @@
 +++
 authors = [ ]
-categories = [ ]
+categories = ["GR20", "Trek" ]
 date = 2016-05-30T22:00:00.000Z
 tags = [ ]
 title = "Corse (GR20)"

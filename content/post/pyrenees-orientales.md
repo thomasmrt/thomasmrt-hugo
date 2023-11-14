@@ -1,11 +1,11 @@
 +++
 authors = [ ]
-categories = [ ]
+categories = ["GR10", "Trek" ]
 showonlyimage = false
 image = "uploads/1-2.jpg"
 date = 2022-05-25T22:00:00.000Z
 
-title = "Pyrénées orientales (GR10)"
+title = "Pyrénées orientales"
 draft = false
 youtube = "8idTBf5p1V0 "
 +++
